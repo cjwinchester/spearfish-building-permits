@@ -1,0 +1,21 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,12,17-0624,Antunez,117 Illinois Street E,Comm-Alteration,Self,40000.00,894.00,,
+2017,12,17-0627,Spearfish Foodies LLC,741 Main Street N 120,Comm-Alteration,Pangea Design Group,351276.00,2460.40,,
+2017,12,17-0645,Auto Choice,321 Heritage Drive,Comm-Alteration,S5 Properties,14000.00,204.00,,
+2017,12,17-0632,Choice Ventures LLC,3135 4th Avenue,Comm-Grading,S5 Properties,,50.00,,
+2017,12,17-0634,City of Spearfish,5525 US Highway 85,Comm-Mechanical,Climate Control Systems,20000.00,,,
+2017,12,17-0651,Baron Properties LLC,931 Jackson Blvd. W,Comm-Mechanical,Sharkey Plumbing & Hea,9700.00,25.00,,
+2017,12,17-0661,Caudill Properties LLC,1430 Canyon Street N,Comm-Mechanical,Efficient Heating and AC,22000.00,350.00,,
+2017,12,17-0609,City of Spearfish,622 Canyon Street,Comm-Repair,Self,6300.00,,,
+2017,12,17-0622,Eric Hunt,338 Evans Lane 5,Mfg MH Placement,Self,27500.00,50.00,,True
+2017,12,17-0427,Eric Hunt,338 Evans Lane 19,Mfg MH Placement,Self,28500.00,50.00,,
+2017,12,17-0638,Brianna Baumann,311 Evans Lane T,Res-Alteration,Self,2500.00,72.00,,True
+2017,12,17-0640,Doug Burnison,411 Spearfish Canyon R,dRes-Alteration,Andy Coyle Construction,32000.00,378.00,,True
+2017,12,17-0642,Mark Schwartz,314 Peoria Street,Res-Alteration,Iverson Construction Inc.,355674.00,1986.20,,
+2017,12,17-0633,Misty & Ron Grimsley,1916 Reserve Street,Res-Finish Basement,The Handy Man/ Spearfish,16000.00,228.00,,
+2017,12,17-0427,Trappor/Emilee Masson,414 E. Illinois Street,Res-Garage,Self,3000.00,156.00,,
+2017,12,17-0635,Tracie & Scott Roth,713 Illinois Street E,Res-Mechanical,Spearfish Electric & Heat,5795.00,75.00,,
+2017,12,17-0659,Caudill Properties LLC,1444 Canyon Street N,Res-Mechanical,Efficient Heating and AC,3000.00,75.00,,
+2017,12,17-0660,Mike Gussiaas,2424 2nd Street,Res-Mechanical,Precision Mechanical,4998.00,25.00,,
+2017,12,17-0616,Andy Coyle Construction,8114 Luke Court,Res-New Dwelling,Andy Coyle Construction,302000.00,3144.40,1000.00,
+2017,12,17-0657,Doris Mortinson,412 Tranquility Lane,Res-New Dwelling,Broderson Builders Inc.,174000.00,2556.80,1000.00,

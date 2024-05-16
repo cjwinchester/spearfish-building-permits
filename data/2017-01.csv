@@ -1,0 +1,26 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,01,17-0001,"Tremco, Inc.",2600 Paramount Drive,Comm-Addition,Marshall Construction,32000.00,378.00,,
+2017,01,17-0022,Great Peaks Realty,"115 Hudson St, E",Comm-Addition,Apex Const,165000.00,1405.00,,
+2017,01,17-0003,Birch Apartments,508 Michigan Street E,Comm-Alteration,MAC Construction,1880000.00,7806.80,,
+2017,01,17-0007,Spearfish Building & Supply,821 Canyon Street,Comm-Alteration,TC Construction,8000.00,192.00,,
+2017,01,17-0017,"Rocky Road Rental, LLC",1555 Maitland Drive,Comm-Alteration,RC Construction,6000.00,108.00,,
+2017,01,17-0034,John Nelson,1930 North Avenue,Comm-Alteration,Self,7144.00,132.00,,
+2017,01,17-0037,Matthew Lutz,2916 4th Avenue,Comm-Alteration,Self,1000.00,30.00,,
+2017,01,17-0038,Whites Queen City Motors,1900 North Avenue,Comm-Alteration,MCD Const,7000.00,120.00,,
+2017,01,17-0005,Guadalajara's,83 Highway 14,Comm-Mechanical,Wolff's Plumbing,30000.00,366.00,,True
+2017,01,17-0032,Crow Peak Brewing,125 Highway 14 W,Comm-Mechanical,Crow Peak Brewing,250.00,25.00,,
+2017,01,17-0006,"Frontgate Holdings, LLC",355 Camp Comfort Road,Comm-New Bldg,D.B. Construction,329455.00,1702.00,,True
+2017,01,16-0629,Dylan Wilde,1221 Jackson Blvd W,Res-Alteration,Roots Construction,6000.00,108.00,,
+2017,01,17-0016,Arden Trandahl,48 Pearson Drive,Res-Alteration,RC Construction,7000.00,120.00,,True
+2017,01,17-0027,Joel Bleth,1722 Iron Horse Loop,Res-Alteration,Mickelson Const,10300.00,218.00,,
+2017,01,16-0577,Austin/Jessica Aluise,1918 Adirondack Street,Res-Finish Basement,Roots Construction,15000.00,281.00,,
+2017,01,17-0013,Nathan Hoogshagen,2733 Tumble Weed Trail,Res-Finish Basement,Self,12000.00,230.00,,
+2017,01,17-0015,Mike Delahoyde,3826 Ward Avenue,Res-Finish Basement,Self,13000.00,242.00,,
+2017,01,17-0024,Tim Baldwin,14 Nickel Place,Res-Finish Basement,Self,5000.00,121.00,,True
+2017,01,17-0028,Brad Stock,3314 Roughlock Lane,Res-Finish Basement,Horst Construction,35000.00,446.00,,
+2017,01,17-0029,Denton McGregor,4008 Gallatin Avenue,Res-Finish Basement,Carmichael Builders,14000.00,254.00,,
+2017,01,17-0030,Chris Delahoyde,2560 Clear Spring Road,Res-Finish Basement,Self,10000.00,206.00,,
+2017,01,17-0031,Gabriel Bezpaletz,1923 Rain Drop Circle,Res-Finish Basement,Self,10000.00,206.00,,
+2017,01,17-0004,Cal & Becky Tininenko,19965 Gobbler Road,Res-New Dwelling,Diversified Const Serv,835000.00,3697.00,,True
+2017,01,17-0026,Ann Cressy,702 Illinois Street E,Res-Repair,Blackburn Basement,6873.00,120.00,,
+2017,01,16-0486,Don Meisinger,273 Pine Cone,Res-Retaining Wall,Munro Earthmoving,35000.00,396.00,,True

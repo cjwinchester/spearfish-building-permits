@@ -1,0 +1,47 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,05,17-0228,Pioneer Bank & Trust,"125 Colorado Blvd E, 1A",Comm-Alteration,Journey Group,136620.00,1239.00,,
+2017,05,17-0273,Johnson Plumbing,325 Industrial Drive,Comm-Alteration,Self,10000.00,267.00,,
+2017,05,17-0263,Air System Mechanical,305 Seaton Circle,Comm-Mechanical,All System,250.00,15.00,,
+2017,05,17-0222,Dale Bakke,538 Aviation Place,Comm-New Building,Morton Building Inc.,91877.00,696.00,,
+2017,05,17-0231,St Joseph Catholic Church,814 King Street,Comm-New Building,Donovan Const,3165600.00,11962.20,,
+2017,05,17-0274,Bob/Sherry Ewing,3226 Fairground Loop W,Comm-New Building,Tetrault-Kirk,300000.00,1974.00,,
+2017,05,17-0250,Dunn Roamin,123 Jackson Blvd E #3,Comm-Repair,Ginter Building Serv,34700.00,396.00,,
+2017,05,17-0286,Jade Palace Chinese Rest,715 Main Street,Comm-Roof,All American Roofing,36000.00,402.00,,
+2017,05,17-0288,City of Spearfish,430 Canyon Street N,Comm-Roof,Lowe Roofing,18540.00,,,
+2017,05,17-0232,Jeff Garrett,146 Valley Drive,Mfg MH Placement,Wirkis Transport,28000.00,50.00,,True
+2017,05,17-0233,Jeff Garrett,1306 Foothills Drive,Mfg MH Placement,B&B Mobile Home,33000.00,50.00,,True
+2017,05,17-0234,Jeff Garrett,120 Valley Drive,Mfg MH Placement,B&B Mobile Home,22000.00,50.00,,True
+2017,05,17-0235,Triple L Loop,521 Triple L Loop,Mfg MH Placement,Self,23000.00,50.00,,
+2017,05,17-0268,Tom Bridges,1510 Canyon Street N,Res-Addition,Self,3000.00,72.00,,
+2017,05,17-0210,Linda/Loren Knittel,23 Nickel Place,Res-Alteration,Mickelson Const,9800.00,156.00,,True
+2017,05,17-0253,Terry Caudill,2425 2nd Street,Res-Alteration,Barnett Custom Bldg,7228.00,132.00,,
+2017,05,17-0256,Larry/Penny Capp,427 Main Street,Res-Alteration,Pangea Design Grp,10000.00,191.00,,
+2017,05,17-0262,Al/Vicky Heller,235 Fairway Drive,Res-Alteration,Timberline Builders,500.00,15.00,,
+2017,05,17-0217,Bryant Stadler,540 12th Street N,Res-Deck,Self,3000.00,72.00,,
+2017,05,17-0218,Edward Clark,1335 Woodland Drive E,Res-Deck,Lou-Lon Const,24673.00,336.00,,
+2017,05,17-0236,Virginia Comfort,1314 Snowy Peak Lane,Res-Deck,Boulder Canyon Const,9500.00,156.00,,
+2017,05,17-0251,David Klynsma,1823 Sugar Creek Plc,Res-Deck,Ram Const,4400.00,96.00,,
+2017,05,17-0284,Darrell Harr,1832 Sugar Creek Place,Res-Deck,The Handy Man,5500.00,108.00,,
+2017,05,17-0285,William/Shirley Enderby,1220 Foothills Drive,Res-Deck,Self,700.00,21.00,,
+2017,05,17-0221,Robert Reiswig,280 Upper Valley Road,Res-Garage,Morton Building Inc.,176558.00,1059.40,,True
+2017,05,17-0271,Aaron/Megan Schoon,1510 Burkard Ct,Res-Garage,Legacy Enterprises,25000.00,336.00,,True
+2017,05,17-0227,David Baker,422 Illinois Street E,Res-Garage,BH Concrete,3000.00,72.00,,
+2017,05,17-0240,Terry Liddick,2630 Lookout Mtn Rd,Res-Garage,Steve Michels Const,26889.00,348.00,,
+2017,05,17-0241,Thomas/Nona Muckle,1223 Foothills Drive,Res-Garage,Dreams Carports,7680.00,132.00,,
+2017,05,17-0247,Virginia Comfort,1314 Snowy Peak Lane,Res-Garage,Four Aces Contracting,18950.00,264.00,,
+2017,05,17-0258,"Benning Rentals, LLC",1210 Jackson Blvd W,Res-Garage,ABC Enterprises,13000.00,192.00,,
+2017,05,17-0272,Taylor Huppler,1218 Cole Lane,Res-Garage,Coyle Const,32647.00,384.00,,
+2017,05,17-0242,Adam/Mary Zvorak,712 Cedar Lane,Res-Mechanical,Spearfish Elec & Heat,15242.00,75.00,,True
+2017,05,17-0243,Terry Perkola,2925 Bald Eagle Road,Res-Mechanical,Spearfish Elec & Heat,5635.00,25.00,,True
+2017,05,17-0277,Donald Petersen,1535 Hillside Drive,Res-Mechanical,Air Doc,3570.00,25.00,,True
+2017,05,17-0254,Donald/Mindy Zacher,2209 Saddle Horn Drive,Res-Mechanical,Wolff's Plumbing,1500.00,15.00,,
+2017,05,17-0278,Denice Turner,424 Illinois Street E,Res-Mechanical,Air Doc,6694.00,25.00,,
+2017,05,17-0219,Richard Raichel/Judith Lamb,19932 Gobbler Road,Res-New Dwelling,Legacy Enterprises,369766.00,1945.00,,True
+2017,05,17-0248,Mark Brockley,203 Pine Cone Avenue,Res-New Dwelling,Superior Construction,100000.00,811.00,,True
+2017,05,17-0152,Redwater Homes,3898 Ward Avenue,Res-New Dwelling,Redwater Homes LLC,210000.00,1373.00,1000.00,
+2017,05,17-0245,Ray/Ann Spellman,630 Falcon Crest Drive,Res-New Dwelling,Logic,406257.00,2200.40,1000.00,
+2017,05,17-0261,DMD Construction,2186 Tumble Weed Trl,Res-New Dwelling,DMD Construction,235000.00,1478.00,1000.00,
+2017,05,17-0269,Kyle/Lucy Conklin,811 Saint Joe Street,Res-Plumbing,Johnson Plumbing,25000.00,100.00,,
+2017,05,17-0223,Shane/Stephanie Bartels,1713 River View Circle,Res-Repairs,Horst Const,22000.00,300.00,,
+2017,05,17-0287,John Ladson,320 3rd Street N,Res-Repairs,Blackburn Basement,11101.00,180.00,,
+2017,05,17-0215,Joseph Kiley,46 Pearson Drive,Res-Shed,Self,2000.00,60.00,,True

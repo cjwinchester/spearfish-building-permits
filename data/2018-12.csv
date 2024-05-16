@@ -1,0 +1,23 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,12,180588,Spearfish Forest Products,1510 Oliver St. W,Comm-Addition,Journey Group Comp.,1892262.00,6359.20,,True
+2018,12,180601,Black Hills Oral Surgery,1230 North Ave. #5,Comm-Alteration,Scull Construction,16000.00,228.00,,
+2018,12,180604,Spearfish Regional Hospital,2479 Colorado Blvd. E. #1,Comm-Alteration,Journey Group Comp.,184102.00,1573.00,,
+2018,12,180608,Auto Choice,321 Heritage Dr.,Comm-Alteration,Auto Choice,3000.00,72.00,,
+2018,12,180633,High Mountain Outfitters,313 Jackson Blvd. W,Comm-Alteration,Steve Clark Construction,8000.00,132.00,,
+2018,12,180620,North Star Construction,319 Seaton Cir.,Comm-New Building,North Star Construction,450000.00,3962.00,2350.00,
+2018,12,180617,John Grant,447 Main St.,Comm-Repair,Self,500.00,15.00,,
+2018,12,180596,Jubea LP,730 Jonas Blvd.,Comm-Roof,"Weather-Tite Ext., LLC",47405.00,474.00,,
+2018,12,180613,Brandon Lampe,3030 Ridge Rd.,Res-Alteration,MCD Construction Serv.,18000.00,252.00,,True
+2018,12,180624,Frank Pavich,2301 Blue Bell Lp.,Res-Alteration,Genpro Energy Sol'ns LLC,14500.00,216.00,,
+2018,12,180625,Ron & Aubrey Hoard,1705 3rd St. N,Res-Alteration,Genpro Energy Sol'ns LLC,12000.00,180.00,,
+2018,12,180631,Brad Grismer,1808 Country Oaks Ln.,Res-Basement,Self,10000.00,221.00,,
+2018,12,180595,Lee Frickey,193 Pine Cone Ave.,Res-Garage,Munro Earthmoving LLC,180400.00,1076.20,,True
+2018,12,180621,Bryce Christensen,701 Christensen Dr.,Res-Garage,Core Construction,40000.00,426.00,,
+2018,12,180605,Bart Samuelson,1302 Woodland Dr. E,Res-Mechanical,Wolff's P&H,1900.00,25.00,,
+2018,12,180609,Barbara O'Malley,1021 Jonas Blvd.,Res-Mechanical,Precision Mechanical,6382.00,25.00,,
+2018,12,180622,Darrell Shipley,124 5th St. S,Res-Mechanical,Black Hills Energy,7700.00,25.00,,
+2018,12,180579,Diversified Const. Serv.,2411 Top Shelf Ave.,Res-New Dwelling,Diversified Const. Serv.,320000.00,3170.00,1000.00,
+2018,12,180602,Josh & Ashley Kirchner,2084 Suntory Ave.,Res-New Dwelling,Black Hills Homes,175000.00,1561.00,1000.00,
+2018,12,180603,Jason & Mindy Roberdeau,610 McGuigan Rd.,Res-New Dwelling,Timberline Builders Inc.,550000.00,2671.00,,True
+2018,12,180607,Ron & Aubrey Hoard,1705 3rd St. N,Res-New Dwelling,Hart Homes,325000.00,2191.00,1000.00,
+2018,12,180616,Roger Riley,2194 Suntory Ave.,Res-New Dwelling,Riley Homes LLC,160000.00,1498.00,1000.00,

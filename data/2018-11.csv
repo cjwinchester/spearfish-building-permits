@@ -1,0 +1,27 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,11,180554,Ryan Cain,540 Heritage Dr.,Comm-Alteration,Renatus Woodworks,350000.00,2658.00,,
+2018,11,180576,"EIX Holdings, LLC",3103 Fairground Lp. E,Comm-Alteration,"EIX Holdings, LLC",3500.00,84.00,,
+2018,11,180578,April Johnson,738 5th St. N,Comm-Alteration,Self,30000.00,486.00,,
+2018,11,180557,S5 Properties,4321 Colorado Blvd. E,Comm-Demo,S5 Properties,,15.00,,
+2018,11,180566,City of Spearfish,4025 Colorado Blvd. E,Comm-Demo,Don Nelson,,,,
+2018,11,180569,Mike & Melissa Currier,1927 Russell St.,Comm-New Building,Diversified Const. Serv.,485000.00,3366.00,2450.00,
+2018,11,180585,Legacy Enterprises,3525 Colorado Blvd. E,Comm-New Building,Legacy Enterprises,100000.00,786.00,,
+2018,11,180575,Crow Peak Plaza LLC,109 Main St.,Comm-Repair,AM Construction,14703.00,216.00,,
+2018,11,180582,Mach One LLC/Killian's,539 Jackson Blvd. W,Comm-Roof,Marcus Custom Builders,1550.00,48.00,,
+2018,11,180573,Bill & Jude Warner,1448 5th St. N,Res-Addition,Hart Homes LLC,15303.00,228.00,,
+2018,11,180593,Thomas Jewitt,514 Nash St.,Res-Addition,Tile Paint & Carpentry LL,25000.00,461.00,,
+2018,11,180563,John Moro,209 Lariat Ct.,Res-Alteration,1st Choice Construction,15000.00,216.00,,
+2018,11,180574,Shawn & Jodi Fox,703 Pine Rd.,Res-Alteration,Self,2000.00,60.00,,True
+2018,11,180577,Philip & Frank Curnow,121 Federal St. E,Res-Alteration,Dennis Forgey Const.,4800.00,96.00,,
+2018,11,180581,Joel Bleth,728 Appaloosa Ln.,Res-Alteration,Mickelson Const. Serv.,2000.00,60.00,,
+2018,11,180592,Tom Ohearn,529 Canyon St. N,Res-Alteration,Roots Construction,80000.00,811.00,,
+2018,11,180543,Kelly Maser,2314 Clear Spring Rd.,Res-Basement,Double D Builders,25000.00,386.00,,
+2018,11,180567,Bjorn & Devon Nelson,1849 Russell St.,Res-Basement,Self,25000.00,336.00,,
+2018,11,180541,Michael Allen,821 Saint Joe St.,Res-Deck,T2 Construction,5000.00,96.00,,
+2018,11,180591,Todd Tetreault,6 Rose Ln.,Res-Deck,Self,1500.00,45.00,,True
+2018,11,180589,Jen & Roman Roberts,720 8th St. N,Res-Demo,Delta Construction,,15.00,,
+2018,11,180556,Anne Rochelle,238 Dakota St. E,Res-Mechanical,Mollman Builders Inc.,3000.00,25.00,,
+2018,11,180583,Jerry Gaskin,1027 Jonas Blvd.,Res-Mechanical,Precision Mechanical,9439.00,50.00,,
+2018,11,180568,Ryan Hughes,1105 Mac Ln.,Res-New Dwelling,High Plains Construction,225000.00,1336.00,,True
+2018,11,180570,Anthony Vopat,275 Evans Ln.,Res-New Dwelling,LL Construction,63000.00,551.00,,True
+2018,11,180560,Jeremy & Melissa Barnett,1026 Spartan Dr.,Res-Repair,Barnett Custom Building,1500.00,45.00,,

@@ -1,0 +1,48 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2015,07,15-0134,Russel/Julie Limke,3343 Eagle Ridge Road,Res-New Dwelling,Winter Construction,440000.00,2239.00,,True
+2015,07,15-0251,Glen/Lisa Foltz,721 State Street,Res-Basement Finish,Hart Homes,5000.00,146.00,,
+2015,07,15-0345,Liza Rodriguez,327 State Street,Res-New Dwelling+Apt,Hart Homes,275000.00,1696.00,,
+2015,07,15-0346,Michaela Anderson,220 7th Street,Res-Mechanical,Foltz & Sons,4450.00,25.00,,
+2015,07,15-0349,Jerry Rawlings,715 Harding Street,Res-Mechanical,"Fireplaces, Stoves & More",3000.00,25.00,,
+2015,07,15-0350,Jim Gregory,3245 Eagle Ridge Road,Res-New Dwelling,Winter Construction,359000.00,1898.80,,True
+2015,07,15-0351,Church of All Angels,1030 5th Street,Comm-Roof,Allied Const,31000.00,372.00,,
+2015,07,15-0352,Curt Folk,1108 Spearfish Mt Ln,Res-Garage,Self,4800.00,96.00,,
+2015,07,15-0353,Colleen Abernathy,3225 Lester Lane,Res-MH Placement Fee,Self,5500.00,108.00,,True
+2015,07,15-0354,Mike Peterson,13 Lincoln Street W,Res-Demolition,Self,,15.00,,
+2015,07,15-0355,Steve Peep,538 Miller Lane,Res-Mechanical,Wolff's Plumbing,5300.00,50.00,,
+2015,07,15-0356,Diversified Const Serv LLC,2305 Tumble Weed Trail,Res-New Dwelling,Diversified Const Serv LLC,300000.00,1751.00,1000.00,
+2015,07,15-0359,Michael/Sara Delano,368 Evans Lane,Res-Addition,Andy Coyle Const,72500.00,676.00,,True
+2015,07,15-0360,Gary Pummel,1342 Canyon Street,Res-Plumbing,A Plus Plumbing,500.00,25.00,,
+2015,07,15-0361,Diversified Const Serv LLC,3235 Talon Road,Res-New Dwelling,Diversified Const Serv LLC,491000.00,2453.20,,True
+2015,07,15-0362,Matt Heinzerling,1219 Cole Lane,Res-New Dwelling,High Plains Const,207000.00,1260.40,,True
+2015,07,15-0363,"Safeway, Inc.",1606 North Avenue,Comm-Roof,Lowe Roofing,209385.00,1198.00,,
+2015,07,15-0364,Phillip Murphy,1105 Roughlock Lane,Res-MH Placement Fee,Self,,50.00,,
+2015,07,15-0366,Edward Simpson,709 31st Street S,Res-Addition,Midwest Window Brokers,21914.00,300.00,,
+2015,07,15-0367,Ken Merhaugh,2502 2nd Street,Res-Mechanical,Precision Mechanical,2155.00,50.00,,
+2015,07,15-0368,Wes/Bailee Fremont,2492 Tumble Weed Trl,Res-New Dwelling,Dakota Construction,280000.00,1667.00,,
+2015,07,15-0369,Nira Nichols,712 32nd Street S,Res-Alteration,Jeff the Handyman Can,1900.00,57.00,,
+2015,07,15-0370,"EIX Holdings, LLC",3103 Fairground Loop E,Comm-Alteration,Jeff the Handyman Can,1000.00,30.00,,
+2015,07,15-0371,Rand/Gayla Williams,517 Jackson Blvd W,Comm-Repair,Self,5000.00,96.00,,
+2015,07,15-0372,Spearfish Regional Hosp,1440 Main Street N,Comm-Alteration,Self,68000.00,816.00,,
+2015,07,15-0373,Clyde Fessler,2415 Paramount Drive,Res-Deck,Bruns Const,4400.00,96.00,,
+2015,07,15-0374,Clyde Fessler,2413 Paramount Drive,Res-Deck,Bruns Const,4400.00,96.00,,
+2015,07,15-0377,Donovan/Cherise Lerew,1821 Selway Court,Res-Addition,Self,2000.00,60.00,,
+2015,07,15-0381,Chad Volkers,2525 Paramount Dr 200,Comm-Alteration,Self,1000.00,30.00,,
+2015,07,15-0384,David Baker,422 Illinois Street E,Res-Addition,Black Hills Concrete,35000.00,526.00,,
+2015,07,15-0385,"Crow Peak Place, LLC","Tract A, Canyon Street",Demo,Earth-Con Excavating,,15.00,,
+2015,07,15-0387,Rodney/Kathy Hofer,2597 Tumble Weed Trail,Shed,Self,4000.00,84.00,,
+2015,07,15-0388,Diversified Const Serv LLC,8020 Brooks Loop,Res-New Dwelling,Diversified Const Serv LLC,370000.00,2045.00,1000.00,
+2015,07,15-0390,Josh/Mandi Markel,329 Illinois Street W,Res-Garage,American Garage Bldr,24025.00,336.00,,
+2015,07,15-0391,Warren/Paula Satterlee,2245 McGuigan Road,Res-Garage,Self,99000.00,816.00,1000.00,
+2015,07,15-0393,Angie/Chris Brown,502 Maple Drive,Res-Deck,Self,1500.00,45.00,,
+2015,07,15-0394,Ron/Darlene Kokesh,1205 Canyon Street,Res-Repair,Self,300.00,15.00,,
+2015,07,15-0396,Brian Paulsen,2150 Maitland Road,Res-Alteration,Self,11000.00,168.00,,True
+2015,07,15-0397,Kara Walkins,1109 Jackson Blvd,Res-Deck,Self,1973.00,60.00,,
+2015,07,15-0399,Landmark Ventures,2306 Bridgestone St,Res-New Dwelling,Timberline Builders,372000.00,2053.00,1000.00,
+2015,07,15-0400,Diversified Const Serv LLC,223 Flintlock Circle,Res-New Dwelling,Diversified Const Serv LLC,258000.00,1574.00,1000.00,
+2015,07,15-0401,Urban Hirsch III,2416 Paramount Drive,Res-Mechanical,Wolff's Plumbing,5000.00,50.00,,
+2015,07,15-0403,Angela/Ron Francis,3761 Ward Avenue,Res-New Dwelling,Redwater Earthworks,225000.00,1436.00,1000.00,
+2015,07,15-0405,Diversified Const Serv LLC,2227 Blue Bell Loop,Res-New Dwelling,Diversified Const Serv LLC,350000.00,1961.00,1000.00,
+2015,07,15-0406,Wayne Alderman,703 Grant Street E,Res-Alteration,Apex Const,2300.00,72.00,,
+2015,07,15-0407,Bill/Colette Klewin,716 Elk Run Road,Res-Garage,"Page, Etc.",70000.00,586.00,,True
+2015,07,15-0408,Solid Rock Church,3025 10th Avenue,Comm-Repair,Erskin Const,8450.00,144.00,,

@@ -1,0 +1,31 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,07,180332,Cavalry Temple Assembly,240 Highway 14 W,Comm-Addition,Mel & Alan Drews,50000.00,486.00,,True
+2018,07,180341,St. Joseph's Catholic Chu,115 Lincoln St. W,Comm-Alteration,MCD Construction,5000.00,96.00,,
+2018,07,180344,Mike Kelly,628 1/2 Main St.,Comm-Alteration,Unique Structures,13000.00,192.00,,
+2018,07,180347,Legacy Enterprises,3525 Colorado Blvd. E,Comm-Alteration,Legacy Enterprises,40000.00,762.00,,
+2018,07,180348,Real Estate Rental Cente,140 Jackson Blvd. E,Comm-Alteration,Siemonsma Construction,8000.00,132.00,,
+2018,07,180351,McDonald's,131 Ryan Rd.,Comm-Fire Supp.,Midwestern Mechanical,18450.00,264.00,,
+2018,07,180338,Boulevard Investments,4415 Colorado Blvd. E,Comm-New Building,Legacy Enterprises,1000000.00,6313.00,3400.00,
+2018,07,180352,Airmethods,428 Aviation Pl.,Comm-Plumbing,Sharkey Plumbing & Heating,350.00,30.00,,
+2018,07,180317,ABC Enterprises,525 Heritage Dr.,Comm-Retaining Wall,ABC Enterprises,65000.00,561.00,,
+2018,07,180319,Bill Durst,1521 Canyon St. N,Res-Alteration,Self,800.00,74.00,,
+2018,07,180333,Marc & Shannon Morgan,221 Hillcrest St.,Res-Alteration,Self,2500.00,72.00,,
+2018,07,180334,Chris Poole,804 10th St. N,Res-Alteration,Bee Handy Home Service,7400.00,162.00,,
+2018,07,180335,David Smith,340 Kansas St. E,Res-Alteration,Self,6000.00,108.00,,
+2018,07,180336,Fruition LLC,2133 Top Shelf Ave.,Res-Basement,Fruition LLC,30000.00,431.00,,
+2018,07,180321,Jordan & Julie Esmay,3113 10th Ave.,Res-Deck,Self,1800.00,54.00,,
+2018,07,180349,Ralph & Alyce Kriege,1012 Spearfish Mtn. Ln.,Res-Deck,Self,5000.00,96.00,,
+2018,07,180353,Kelly Deis,222 Vermont St.,Res-Deck,Stephen Hayes,5000.00,96.00,,
+2018,07,180354,Kay Kerney,2035 McGuigan Rd.,Res-Deck,Self,5000.00,96.00,,True
+2018,07,180250,Shelly Binner,334 Pine Cone Ave.,Res-Garage,Rae Marie Custom Home,143000.00,916.60,,True
+2018,07,180271,Delmar Brownell,3004 Meadow Ln.,Res-Garage,Austin Construction,40000.00,426.00,,True
+2018,07,180315,Alan Schock,940 8th St. N,Res-Garage,Self,45000.00,506.00,,
+2018,07,180267,David & Kellie Pummel,1244 Canyon St. N,Res-New Dwelling,Dakota Construction,542000.00,2792.20,,
+2018,07,180308,Higgins Creek Custom Homes,1701 Russell St.,Res-New Dwelling,Higgins Creek Custom Homes,180000.00,1582.00,1000.00,
+2018,07,180318,DMD Construction,2258 Talisker Ave.,Res-New Dwelling,DMD Construction,235000.00,1813.00,1000.00,
+2018,07,180323,James Foreman,2254 Tumble Weed Tr.,Res-New Dwelling,Dakota Builders,241200.00,1892.40,1000.00,
+2018,07,180326,Corey & Barbara Heiting,2120 Blue Bell Lp.,Res-New Dwelling,Diversified Construction S,385000.00,2493.00,1000.00,
+2018,07,180328,Vicki Kapust,19972 Merriam Lp.,Res-New Dwelling,Legacy Enterprises,500000.00,2491.00,,True
+2018,07,180325,Roger & Sandra Hale,3825 Ward Ave.,Res-Pergola,Ram Construction,3775.00,84.00,,
+2018,07,180339,Steve Laprade,1115 Crow Peak Ln.,Res-Plumbing,Air Doc,2551.70,25.00,,
+2018,07,180359,Dave Berberick,1008 Verdale Dr.,Res-Repair,Mollman Builders Inc.,500.00,15.00,,

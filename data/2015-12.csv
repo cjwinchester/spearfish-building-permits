@@ -1,0 +1,29 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2015,12,15-0589,Nick/Sara Gottlob,1615 Arizona Ave,Res-Garage,Morton Building,24973.00,336.00,,
+2015,12,15-0593,Spearfish Surgery Ctr,1316 10th Street N,Comm-Plumbing,Wolff's Plumbing,10000.00,156.00,,
+2015,12,15-0600,Harvey/Barb Mitchlitsch,105 Timberline Road,Res-New Dwelling,Dailey Const,425000.00,2176.00,,True
+2015,12,15-0614,"Bomgaars Supply, Inc.",2323 Colorado Blvd,Comm-Alteration,Donovan Const,92130.00,809.00,,
+2015,12,15-0620,Northern Hills Music,"722 Main Street, #6",Comm-Alteration,Self,1800.00,54.00,,
+2015,12,15-0626,Countryside Church,625 Woodland Dr,Comm-Mechanical,Wolff's Plumbing,1000.00,30.00,,
+2015,12,15-0628,Black Hills Urgent Care,120 Michigan Street E,Comm-New Building,Ainsworth-Benning,3227801.00,12421.20,,
+2015,12,15-0631,John/Lynette Wyatt,3 Rose Lane,Res-Mechanical,Wolff's Plumbing,6400.00,25.00,,True
+2015,12,15-0634,Kalene/Brock Anundson,1703 Iron Horse Loop,Res-Alteration,Matson Const,15000.00,266.00,,
+2015,12,15-0635,"Superior Properties, LLC",1109 1/2 5th Street,Res-Alteration,Self,3200.00,184.00,,
+2015,12,15-0636,Douglas Umberger,3735 Grand Loop,Res-New Dwelling,Self,265000.00,1504.00,,True
+2015,12,15-0637,North Point Chr Church,10959 Kellem Lane,Comm-Mech/Plumbing,Action Mechanical,261800.00,1719.60,,
+2015,12,15-0641,Dan Kaiser,144 Colorado Blvd W,Comm-Retaining Wall,Dennis Forgey Const,4000.00,84.00,,
+2015,12,15-0642,Lois Gibson,2314 Bridgestone St,Res-New Dwelling,Robinson Builders,635000.00,3077.00,1000.00,
+2015,12,15-0644,Kevin/Kayla Dailey,3769 Ward Avenue,Res-New Dwelling,Dailey Construction,285000.00,1688.00,1000.00,
+2015,12,15-0647,Eric/Jill Chichosz,5115 Turtle Lane,Res-Alteration,Waterworks,2000.00,60.00,,True
+2015,12,15-0649,"Crow Peak Place, LLC",1054 Canyon Street N,Grading,Earth-Con Excavating,,100.00,,
+2015,12,15-0650,Belinda Powers,1219 Spearfish Mtn Ln,Res-MFG MH Placement,Self,,50.00,,
+2015,12,15-0651,Scott Odenbach,3425 Fox Run Lane,Res-Garage,Diversified Const Serv,30000.00,366.00,,True
+2015,12,15-0653,Amy/John Lee,3866 Ward Avenue,Res-Alteration,Self,13800.00,254.00,,
+2015,12,15-0655,High Plains Plaza,1230 North Avenue,Comm-Roof,Lowe Roofing,70515.00,591.00,,
+2015,12,15-0656,Scott Stampe,230 Main Street #1,Comm-Alteration,Wilen Masonry,5300.00,108.00,,
+2015,12,15-0657,John/Sharon Martin,3818 Ward Avenue,Res-Mechanical,Wolff's Plumbing,1300.00,50.00,,
+2015,12,15-0658,Crow Peak Place LLC,1046 Canyon Street,Res-New Dwelling,Earth-Con Excavating,290000.00,1709.00,,
+2015,12,15-0659,Calvin Dardis,621 Main,Comm-Alteration,Paul Leth Const,8000.00,180.00,,
+2015,12,15-0671,Martha/Steven Gustafson,124 Spearfish Mt Court,Mfg MH Placement Fee,Self,,50.00,,
+2015,12,15-0672,John/Dianne Miller,2408 5th Avenue,Res-Alteration,Self,8000.00,182.00,,
+2015,12,15-0673,Taya/Nick Christensen,2317 Blue Bell Loop,Res-Alteration,Self,15000.00,266.00,,

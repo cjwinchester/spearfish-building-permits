@@ -1,0 +1,30 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,07,17-0376,Countryside Comm Church,625 Woodland Drive,Comm-Addition,DMD Const,80000.00,636.00,,
+2017,07,17-0370,BMI Builders Mgmt,723 Harvard St,Comm-Alteration,Phaze Electric,15300.00,228.00,,
+2017,07,17-0369,St. Joseph's Catholic,844 5th Street N,Comm-Mechanical,Service First Inc.,5000.00,96.00,,
+2017,07,17-0377,Bob & Sherry Ewing,3226 Fairground Loop W,Comm-Mechanical,Wolff's Plumbing,42250.00,444.00,,
+2017,07,17-0276,Recreation Station,3595 Colorado Blvd E,Comm-New Building,Legacy Enterprises,800000.00,4868.00,3100.00,
+2017,07,17-0395,"The Green Bean, LLC",304 Main Street,Comm-Roof,Paul Leth Construction,12000.00,180.00,,
+2017,07,17-0360,Marty Pedersen,31 Lantern Circle,Mfg MH Placement,B & B Mobile Home Tr,25000.00,50.00,,True
+2017,07,17-0374,Shanon Vasknetz,1128 Spearfish Mtn Ln,Mfg MH Placement,B & B Mobile Home Tr,25000.00,50.00,,
+2017,07,17-0380,Terry Cargin,1222 Foothills Drive,Mfg MH Placement,Northern Hills Homes,109000.00,50.00,,
+2017,07,17-0371,Larry Beaner,1411 Evolution Lane,Res-Alteration,Genpro Energy,16201.00,240.00,,True
+2017,07,17-0358,Kyle/Heather Doerges,1230 3rd Street N,Res-Alteration,TC Construction,3024.00,84.00,,
+2017,07,17-0379,Kevin Pummel,130 Quincy Street,Res-Alteration,Mollman Builders,23000.00,342.00,,
+2017,07,17-0387,Tate/Jennifer Hayford,3022 10th Avenue,Res-Alteration,Self,1300.00,39.00,,
+2017,07,17-0354,Dan Berens,3120 Ridge Road,Res-Deck,Austin Const,9000.00,144.00,,True
+2017,07,17-0372,Michael Roberts,204 Cottonwood Drive,Res-Deck,Self,4000.00,84.00,,True
+2017,07,17-0351,Larry/Sandy Klarenbeek,1005 5th Street N,Res-Deck,Stephen Hayes,7500.00,132.00,,
+2017,07,17-0364,Clyde/Janet Robertson,4022 Ward Avenue,Res-Deck,Self,6000.00,108.00,,
+2017,07,17-0373,Melvin Breitkreutz,415 Lariat Drive,Res-Deck,Pollard Const,9992.00,156.00,,
+2017,07,17-0382,Dustin Hoffman,1929 Absaroka Street,Res-Deck,Self,750.00,24.00,,
+2017,07,17-0389,Ray/Becky Hansen,3804 Caballo Drive,Res-Deck,The Axe & Chisel,21000.00,288.00,,
+2017,07,17-0385,Susan Beeman,215 Washington Street,Res-Finish Basement,Self,1500.00,45.00,,
+2017,07,17-0392,Gary/Connie Haitt,400 Rimrock Road,Res-Garage,Bailey Const,25000.00,336.00,,True
+2017,07,17-0381,Ruben & Renate Fuerst,1213 Snowy Peak Lane,Res-Garage,Dreams,6844.00,120.00,,
+2017,07,17-0359,Audrey Schnabel,229 Washington Street,Res-Mechanical,Wolff's Plumbing,7000.00,50.00,,
+2017,07,17-0368,Diversified Const Serv,19926 Gobbler Road,Res-New Dwelling,Diversified Const Serv,375000.00,1966.00,,True
+2017,07,17-0362,Josh Delahoyde,3857 Ward Avenue,Res-New Dwelling,Delahoyde Construction,245000.00,1520.00,1000.00,
+2017,07,17-0363,Heather & Ryan Cain,2506 Chokecherry Circle,Res-New Dwelling,Diversified Const Serv,450000.00,2381.00,1000.00,
+2017,07,17-0384,Titus Roberts,3101 10th Avenue,Res-New Dwelling,Self,242000.00,1507.40,1000.00,
+2017,07,17-0383,Dan Van Sickle,1014 Spartan Drive,Res-Repair,"Black Hills Exteriors, LLC",4000.00,84.00,,

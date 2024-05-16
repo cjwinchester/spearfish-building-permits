@@ -1,0 +1,39 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,10,180305,EIX Holdings,3425 Fairground Loop N,Comm-Alteration,EIX Holdings,10398.00,264.00,,
+2018,10,180340,Safeway Inc.,1606 North Ave.,Comm-Alteration,Pioneer General Contract,35000.00,396.00,,
+2018,10,180489,A&L Contractors,3215 Fairground Lp.,Comm-Alteration,A&L Contractors,70000.00,586.00,,
+2018,10,180501,Ed Dykstra,638 Main St.,Comm-Alteration,Design Electric,2000.00,60.00,,
+2018,10,180511,EIX Holdings,3103 Fairground Loop E,Comm-Alteration,Andy Coyle Construction,5000.00,96.00,,
+2018,10,180516,Tom Rowett,3214 Fairground Loop E,Comm-Mechanical,Self,600.00,50.00,,
+2018,10,180503,Scott's Electric,1945 Russell St.,Comm-New Building,Siemonsma Construction,220000.00,1669.00,2350.00,
+2018,10,180510,Keith Massey,5515 US Hwy 85,Comm-New Building,Delta Construction,15000.00,,,True
+2018,10,180522,Elkhorn Ridge Golf Mgmt,6845 St. Onge Rd.,Comm-New Building,Scull Construction,1064000.00,5269.60,,
+2018,10,180526,The Granary District LLC,2549 Yukon Pl.,Comm-New Building,Timberline Builders,150000.00,1390.00,1649.00,
+2018,10,180471,Safeway Inc.,1606 North Ave.,Comm-Plumbing,H20 Plumbing & Heating,16000.00,228.00,,
+2018,10,180529,Roland J & Joni Kolb,809 Mason St.,Comm-Roof,RS Roofing & Siding,4875.00,96.00,,
+2018,10,180531,Roland J & Joni Kolb,822 Yale St.,Comm-Roof,RS Roofing & Siding,7875.00,132.00,,
+2018,10,180532,Roland J & Joni Kolb,919 King St.,Comm-Roof,RS Roofing & Siding,9600.00,156.00,,
+2018,10,180507,Jayne Brenneisen,265 Highway 14 W,Res-Addition,Ram Construction,3915.00,84.00,,True
+2018,10,180509,Karen Klocko,426 Warren Peak Ct.,Res-Addition,Groeneweg Builders LLC,800.00,24.00,,
+2018,10,180514,Roger Stout,12 Swan Ln.,Res-Alteration,Austin Construction,35000.00,446.00,,True
+2018,10,180488,Phillip Reausaw,3632 Northview Ct.,Res-Alteration,Dreams Carports,2518.00,72.00,,True
+2018,10,180495,Louise Yoho,1204 Polley Dr.,Res-Alteration,Roots Construction,6000.00,108.00,,
+2018,10,180502,Alicia Beedle,1020 5th St. N,Res-Alteration,Spearfish Electric,5000.00,96.00,,
+2018,10,180513,Danny Adams,1729 3rd St. N,Res-Alteration,Self,10000.00,221.00,,
+2018,10,180535,Elizabeth Semones,325 Illinois St. W,Res-Basement,JG Carpentry,40000.00,491.00,,
+2018,10,180492,Todd Jensen,344 Main St.,Res-Demo,Pedersen Excavating,,15.00,,
+2018,10,180505,Amity Beck,104 Hillcrest St.,Res-Demo,Pedersen Excavating,,15.00,,
+2018,10,180540,Anthony Vopat,275 Evans Ln.,Res-Demo,LL Construction,,15.00,,True
+2018,10,180520,Joe & Jayni Stahl,3560 Hillsview Rd.,Res-Garage,Northern Hills Homes & RV's,32000.00,378.00,,True
+2018,10,180527,Rick & Robin Meyerink,2658 Green Spot Ln.,Res-Garage,Self,27532.00,354.00,,
+2018,10,180521,Cheryl Budd,126 State St. Lot 30,Res-Manufactured MH Place.,Northern Hills Homes & RV's,40000.00,50.00,,
+2018,10,180508,Ryan & Serena Cathcart,406 Aspen Dr.,Res-Mechanical,Self,3500.00,25.00,,
+2018,10,180517,Tara Deitschman,4033 Gallatin Ave.,Res-Mechanical,Self,6000.00,50.00,,
+2018,10,180534,Ted Barnhard,383 Oak Ridge Rd.,Res-Mechanical,Self,950.00,25.00,,True
+2018,10,180504,Christopher Pangburn,2202 Arrowhead Cir.,Res-New Dwelling,Earth-Con Excavating LLC,245000.00,1855.00,1000.00,
+2018,10,180506,Larry Dwiggins,2128 Suntory Ave.,Res-New Dwelling,Black Hills Homes,152000.00,1464.40,1000.00,
+2018,10,180512,Trilogy Properties,8115 Brooks Lp.,Res-New Dwelling,Three Waters LLC,229000.00,1837.80,1000.00,
+2018,10,180524,Legacy Enterprises,8105 Luke Ct.,Res-New Dwelling,Legacy Enterprises,185000.00,1603.00,1000.00,
+2018,10,180536,Shawn & Karla Chase,1345 Woodland Dr. E,Res-New Dwelling,Hemeyer Enterprises Inc.,750000.00,3876.00,500.00,
+2018,10,180530,Fruition LLC,2133 Top Shelf Ave.,Res-Retaining Wall,Fruition LLC,5000.00,96.00,,
+2018,10,180490,Paul Thomson,830 Harvard St.,Res-Roof,Self,1000.00,30.00,,

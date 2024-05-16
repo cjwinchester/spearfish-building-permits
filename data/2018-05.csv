@@ -1,0 +1,52 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,05,180210,Recreation Station,3595 Colorado Blvd. E,Comm-Addition,Stadler Industrial Service,9000.00,144.00,,
+2018,05,180176,Builders First Source,203 Hudson St. W,Comm-Alteration,Pietila Property & Repair,2500.00,72.00,,
+2018,05,180188,"Cavmar, LLC",3100 1st Ave.,Comm-Alteration,A-Z Custom Contracting,50000.00,486.00,,
+2018,05,180203,S5 Properties,2935 Colorado Blvd. E,Comm-Alteration,S5 Properties,1500.00,45.00,,
+2018,05,180245,Doug Cooley,745 11th St. N,Comm-Alteration,"Hemeyer Enterprises, Inc",10000.00,156.00,,
+2018,05,180144,Prairie Harvest,350 Hillsview Rd.,Comm-Alteration,Self,2500.00,97.00,,True
+2018,05,180213,City of Spearfish,4025 Colorado Blvd. E Bl,Co mm-Demo,JMG Industries,,,,
+2018,05,180214,City of Spearfish,4025 Colorado Blvd. E Bl,Co mm-Demo,Reid Stanberg,,,,
+2018,05,180215,City of Spearfish,4025 Colorado Blvd. E Bl,Co mm-Demo,Chris Hlucny,,,,
+2018,05,180216,City of Spearfish,4025 Colorado Blvd. E Bl,Com m- De mo,Bryce Falzerano,,,,
+2018,05,180230,Bob Meyer,3100 1st Ave.,Comm-Mechanical,Service First Inc.,16500.00,240.00,,
+2018,05,180168,"Lookout Mountain Plaza,",2430 Platinum Dr.,Comm-New Building,Robinson Builders,992000.00,6404.20,2800.00,
+2018,05,180182,The Granary District LLC,2535-2547 Yukon Pl.,Comm-New Building,Timberline Builders Inc.,1700000.00,16469.00,3250.00,
+2018,05,180244,City of Spearfish,4025 Colorado Blvd. E,Comm-Repair,Vig Custom Builders,3367.00,,,
+2018,05,180208,Leuders Food Center,620 7th St.,Comm-Roof,Northern Hills Homes & R,2000.00,60.00,,
+2018,05,180235,MDI Limited Partnership,#727 34th St. S A,Comm-Roof,Weather-Tite Exteriors LL,21029.00,300.00,,
+2018,05,180224,Boulevard Investments,4415 Colorado Blvd. E,Comm-Water Line Ext.,Legacy Enterprises,,21000.00,,
+2018,05,180226,Arnold & Zana Hartman,717 Grant St. E,Res-Addition,Self,35000.00,436.00,,
+2018,05,180227,Dailey Construction,8110 Luke Ct.,Res-Addition,Dailey Construction,5000.00,96.00,,
+2018,05,180197,Elizabeth Semones,325 Illinois St. W,Res-Alteration,Midwest Home Improvem,1580.00,48.00,,
+2018,05,180252,Rand & Gayla Williams,742 State St.,Res-Alteration,Self,800.00,24.00,,
+2018,05,180186,Shawn & Jodi Fox,703 Pine Rd.,Res-Alteration,Self,1400.00,42.00,,True
+2018,05,180232,Victor & Linda Shaefer,18 Pioneer Ln.,Res-Alteration,Self,700.00,71.00,,True
+2018,05,180233,Jordan & Julie Esmay,3113 10th Ave.,Res-Deck,Countryside Community Church,700.00,21.00,,
+2018,05,180239,Deric Flagstad,3793 Ward Ave.,Res-Deck,Self,4000.00,84.00,,
+2018,05,180183,Cory & Carrie Whitlock,19964 Gobbler Rd.,Res-Finish Basement,Northern Hills Handyman,31130.00,397.00,,
+2018,05,180181,Jack & Karen Greetis,243 Oak Ridge Rd.,Res-Garage,Burly Builders LLC,64000.00,556.00,,True
+2018,05,180202,Ryan Wordeman,258 Evans Ln.,Res-Garage,"Hemeyer Enterprises, Inc",140000.00,1274.00,,True
+2018,05,180205,David Klein,371 Evans Ln.,Res-Garage,Self,25000.00,67.20,,True
+2018,05,180209,Greg & Joni Brenner,711 Cedar Ln.,Res-Garage,Routh Construction,13000.00,192.00,,True
+2018,05,180217,Dave Derosier,90 Hwy 14 W,Res-Garage,Delahoyde Construction,45550.00,463.00,,True
+2018,05,180223,Robert & Karen Deis,19931 Gobbler Rd.,Res-Garage,Winsell Construction,35000.00,396.00,,True
+2018,05,180246,Larry Peterson,3840 Caballo Dr.,Res-Garage,Self,5000.00,96.00,,True
+2018,05,180185,Duane & Lucia Elmblad,1905 Windmill Dr.,Res-Mechanical,Air Doc,3654.05,25.00,,
+2018,05,180225,Marna Goodson,506 Tranquility Ln.,Res-Mechanical,All Pro Sheet Metal,700.00,50.00,,
+2018,05,180184,Larry & Barbara Moe,130 Hardy Dr.,Res-Mechanical,Air Doc,6051.92,25.00,,True
+2018,05,180052,Legacy Enterprises,2305 Bridgestone St.,Res-New Dwelling,Legacy Enterprises,450000.00,2766.00,1000.00,
+2018,05,180118,David & Spencer Rossi,2133 Top Shelf Ave.,Res-New Dwelling,Fruition LLC,225000.00,1821.00,1000.00,
+2018,05,180121,Legacy Enterprises,8122 Luke Ct.,Res-New Dwelling,Legacy Enterprises,422000.00,2648.40,1000.00,
+2018,05,180151,Black Hills Homes,2150 Suntory Ave.,Res-New Dwelling,Black Hills Homes,152000.00,1464.40,1000.00,
+2018,05,180194,Diversified Const. Service,3909 Beartooth Lp.,Res-New Dwelling,Diversified Const. Services,362450.00,2350.60,1000.00,
+2018,05,180199,Diversified Const. Service,3905 Beartooth Lp.,Res-New Dwelling,Diversified Const. Services,335000.00,2233.00,1000.00,
+2018,05,180200,High Plain Const.,2469 Top Shelf Ave.,Res-New Dwelling,High Plain Const.,350000.00,2346.00,1000.00,
+2018,05,180204,Shannon Mather,2287 5th Ave.,Res-New Dwelling,Myers Construction,275000.00,3031.00,1000.00,
+2018,05,180236,Dailey Construction,8106 Luke Ct.,Res-New Dwelling,Dailey Construction,240000.00,1884.00,1000.00,
+2018,05,180150,Erin & Tim Fauske,3235 Eagle Ridge Rd.,Res-New Dwelling,Carmichael Builders Inc.,529000.00,2595.40,,True
+2018,05,180198,Ryan Neal,2812 Crown Jewel Ct.,Res-New Dwelling,Neal Construction,258300.00,1478.80,,True
+2018,05,180189,Carl Mattison,206 Vermont St.,Res-Plumbing,Mickelson Construction S,5000.00,25.00,,
+2018,05,180195,Kathleen Parrow,822 Pinedale Dr.,Res-Sewer Repair,Roughrider Construction,7000.00,,,
+2018,05,180196,John & Hannah Bohlinge,144 7th St. N,Res-Sewer Repair,Roughrider Construction,7000.00,,,
+2018,05,180234,Clay & Anna Dykstra,706 University St.,Res-Shed,Self,1700.00,51.00,,

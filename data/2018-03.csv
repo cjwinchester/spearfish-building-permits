@@ -1,0 +1,30 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,03,180066,Spring Creek Ranch,211 Main St.,Comm-Alteration,Advanced Builders,750.00,24.00,,
+2018,03,180081,Dakota Seafood,"741 Main St. N, Ste. 110",Comm-Alteration,Pangea Design Group,420000.00,2560.00,,
+2018,03,180086,Sarah & Lee Eklund,747 Ames St.,Comm-Alteration,Self,65000.00,681.00,,
+2018,03,180089,Clair Donovan,120 Hudson St. W,Comm-Alteration,Donovan Construction,25000.00,336.00,,
+2018,03,180091,"Steele & Steele Prop., LL",1830 Main St. N,Comm-Alteration,Journey Group Companies,150600.00,950.20,,
+2018,03,180108,KW Realty Black Hills,3025 1st Ave.,Comm-Alteration,Advanced Builders,1500.00,45.00,,
+2018,03,180097,"Sodak Holdings, LLC",141 Jackson Blvd. W,Comm-Demolition,Meredith Services Company,,15.00,,
+2018,03,180058,Precision Mechanical,3326 Fairground Loop E,Comm-Mechanical,Precision Mechanical,5774.00,108.00,,
+2018,03,180077,Tom Johnson,250 Aviation Pl.,Comm-New Building,Moon Mountain LLC,450000.00,2386.00,,
+2018,03,180082,Fidler-Isburg Funeral Chapel,440 7th St. N,Comm-New Building,Self,310583.00,2188.20,,
+2018,03,180104,Elkhorn Ridge Golf Mgmt LLC,6845 Saint Onge Rd.,Comm-New Building,Elkhorn Ridge Golf Mgmt LLC,518827.00,2884.40,,
+2018,03,180103,Clair Donovan,120 Hudson St. W,Comm-Plumbing,Donovan Construction,2000.00,75.00,,
+2018,03,180099,"LRBG, LLC",704 8th St. N,Res-Alteration,Level Building,13925.00,249.00,,
+2018,03,180100,Don Wood,122 State St.,Res-Alteration,Self,200.00,40.00,,
+2018,03,180101,Alex Musson,440 Hillsview Rd.,Res-Alteration,Oaks Construction,2000.00,60.00,,True
+2018,03,180083,Jeffrey Wehrung,1021 Verdale Dr.,Res-Basement,Self,1000.00,55.00,,
+2018,03,180102,Wagner Custom Homes,2322 Tumble Weed Tr.,Res-Basement,Wagner Custom Homes,20000.00,341.00,,
+2018,03,180106,Redwater Homes LLC,1669 Russell St.,Res-Basement,Redwater Homes LLC,30000.00,431.00,,
+2018,03,180087,Lester Emil Wentz,1108 Crow Peak Ln.,Res-Carport,Dreams Carport Inc.,1445.00,45.00,,
+2018,03,180076,Kirby & Monica Keller,1215 27th St. N,Res-Garage,Self,45000.00,456.00,,
+2018,03,180078,Mitch & Alissa Adams,130 Tinton Rd. N,Res-Garage,Self,44000.00,450.00,,True
+2018,03,180111,Munro Earthmoving LLC,19413 US Hwy. 85,Res-Mechanical,Munro Earthmoving LLC,15000.00,25.00,,True
+2018,03,180069,Redwater Homes LLC,1733 Russell Street,Res-New Dwelling,Redwater Homes LLC,280000.00,2002.00,1000.00,
+2018,03,180071,Christopher Pangburn,2197 Arrowhead Cir.,Res-New Dwelling,Earth-Con Excavating LL,225000.00,1771.00,1000.00,
+2018,03,180085,DMD Construction,2260 Suntory Ave.,Res-New Dwelling,DMD Construction,225000.00,2821.00,1000.00,
+2018,03,180090,DMD Construction,2238 Suntory Ave.,Res-New Dwelling,DMD Construction,235000.00,2863.00,1000.00,
+2018,03,180115,Stanley Smith,8116 Brooks Lp.,Res-New Dwelling,Matson Construction,270000.00,3010.00,1000.00,
+2018,03,180072,E&J Holdings,115 Hudson St. W,Res-Plumbing,Sharkey's,4000.00,84.00,,
+2018,03,180075,Paul Rothenberger,555 Winterville Dr.,Res-Shed,Self,500.00,15.00,,True

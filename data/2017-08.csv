@@ -1,0 +1,40 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,08,17-0439,Cntryside Comm Church,625 Woodland Drive,Comm-Addition,Self,1100000.00,5624.00,,
+2017,08,17-0400,Pedersen Excavating,3206 Fairground Loop W,Comm-Alteration,Pedersen Excavating,3000.00,198.00,,
+2017,08,17-0418,Bob/Sherry Ewing,3226 Fairground Loop,Comm-Alteration,Tetrault-Kirk,6000.00,108.00,,
+2017,08,17-0445,The Music Room,931 Colorado Blvd E,Comm-Alteration,Self,20000.00,276.00,,
+2017,08,17-0437,Montana-Dakota Utilities,145 State Street,Comm-Demo,Self,,15.00,,
+2017,08,17-0409,Hemeyer Enterprises,1925 McGuigan Road,Comm-New Building,Hemeyer Enterprises,190000.00,1114.00,,True
+2017,08,17-0416,Knecht Home Center,2905 4th Avenue,Comm-New Building,Scull Construction,5889000.00,17722.60,2650.00,
+2017,08,17-0399,Bill McGrath,803 Jackson Blvd W,Comm-Repair,Roots Const,2500.00,72.00,,
+2017,08,17-0405,"Rocky Bluff Apts, LP",2425 Clear Spring Road,Comm-Repair,Oakwood Const,50000.00,486.00,,
+2017,08,17-0394,Pioneer Memorial Manor,930 10th Street N,Comm-Roof,Advanced Roofing System,5500.00,108.00,,
+2017,08,17-0436,JLB Rentals,311 Colorado Blvd E,Comm-Roof,Baruch Construction Inc.,33500.00,390.00,,
+2017,08,17-0423,"Hunt Properties, LLC",338 Evans Lane #6,Mfg MH Placement,Self,58000.00,50.00,,True
+2017,08,17-0424,"Hunt Properties, LLC",338 Evans Lane #5,Mfg MH Placement,Self,27500.00,50.00,,True
+2017,08,17-0417,Tom Gearhart,2041 Vista Hills Place,Res-Addition,Midwest Home Improve,35753.00,402.00,,True
+2017,08,17-0410,Laurita McKercher,3225 Talon Road,Res-Alteration,Self,25000.00,336.00,,True
+2017,08,17-0366,Nate/Jackie Derksen,1315 5th Street N,Res-Alteration,Self,2500.00,102.00,,
+2017,08,17-0403,Edward/Barbara Rose,2018 Branding Iron Dr,Res-Alteration,Highland Const,2800.00,72.00,,
+2017,08,17-0421,Wayne Lueders,1030 Ames Street,Res-Alteration,Myers Construction,2200.00,72.00,,
+2017,08,17-0433,Allan/Linda Wallman,504 State Street,Res-Alteration,Blackburn Basement,8868.00,144.00,,
+2017,08,17-0434,Peter Mischel,203 Polley Drive,Res-Alteration,Blackburn Basement,12686.00,192.00,,
+2017,08,17-0420,Shannon Vasknez,1128 Spearfish Mtn Ln,Res-Deck,Palmer Construction,3200.00,84.00,,
+2017,08,17-0422,Spike Jorgensen,500 Brookview Road,Res-Demolition,Self,,15.00,,True
+2017,08,17-0390,Richard/Irene Anderson,3624 Northview Court,Res-Finish Basement,Self,8000.00,157.00,,True
+2017,08,17-0432,Linda/Loren Knittel,23 Nickel Place,Res-Finish Basement,Mickelson Const,13500.00,229.00,,True
+2017,08,17-0391,Eric/Sally Johnson,1910 Adirondack St,Res-Finish Basement,Mason & Sons Const,10750.00,218.00,,
+2017,08,17-0397,Stacy/Terry Sandgren,2505 Chokecherry Circle,Res-Finish Basement,High Plains Construction,35000.00,446.00,,
+2017,08,17-0411,Kale/Katie Nelson,1806 Durgin Ct,Res-Finish Basement,Self,1000.00,30.00,,
+2017,08,17-0431,Colin/Melissa Simpson,1913 Absaroka Street,Res-Finish Basement,Self,1150.00,36.00,,
+2017,08,17-0396,John Burrell,4304 Brookview Road,Res-Garage,VAP Construction,139623.00,979.00,,True
+2017,08,17-0402,Everett Follette,720 Pine Road,Res-Garage,Four Aces Contracting,29305.00,366.00,,True
+2017,08,17-0428,Mark Sachara,3040 Golden Eagle Pl,Res-Garage,"Timberline Builders, Inc.",57800.00,526.00,,True
+2017,08,17-0438,Jeremiah/Tracy Johnson,112 Dubois Lane,Res-New Dwelling,Hemeyer Enterprises,280000.00,1567.00,,True
+2017,08,17-0393,Brian/Mariah Gill,8121 Luke Court,Res-New Dwelling,Diversified Const Services,320000.00,1835.00,1000.00,
+2017,08,17-0404,Kathleen Helmer,8118 Luke Court,Res-New Dwelling,Self,235000.00,1478.00,1000.00,
+2017,08,17-0406,Wilkins Construction,502 Tranquility Lane,Res-New Dwelling,Wilkins Construction,280000.00,1667.00,1000.00,
+2017,08,17-0412,Judy Black,8040 Brooks Loop,Res-New Dwelling,Dailey Const,329000.00,1872.80,1000.00,
+2017,08,17-0415,Lonny/Sheleen Bauer,8037 Brooks Loop,Res-New Dwelling,Self,320000.00,1835.00,1000.00,
+2017,08,17-0441,John Heck,340 N 14th Street,Res-Repair,Spark's Concrete Lifting,7950.00,132.00,,
+2017,08,17-0413,Douglas Umberger,3735 Grand Loop,Res-Shed,Self,2000.00,45.00,,True

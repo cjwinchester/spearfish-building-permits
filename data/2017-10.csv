@@ -1,0 +1,49 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,10,17-0530,Old Apostolic Lutheran Ch,2040 Vista Hills Place,Comm-Addition,Black Hills Craftsmen,10000.00,156.00,,True
+2017,10,17-0505,Speedy Mart,2615 Colorado Blvd E,Comm-Addition,Journey Group Co.,242730.00,1660.60,,
+2017,10,17-0496,Edward Jones,"2525 Paramount Dr, #203",Comm-Alteration,Horizon Retail Const,39000.00,576.00,,
+2017,10,17-0519,Gloria Jean Sparrow Trust,111 Illinois Street E,Comm-Alteration,Self,4500.00,195.00,,
+2017,10,17-0529,Crow Peak Lodge,346 Kansas Street W,Comm-Alteration,Self,5000.00,96.00,,
+2017,10,17-0534,Maple Apartments,639 Michigan Street E,Comm-Alteration,MAC Construction,1360000.00,6237.00,,
+2017,10,17-0537,"SoDak Brewing Co, LLC","741 Main Street, Ste 130",Comm-Alteration,Meridith Services,190000.00,1966.00,,
+2017,10,17-0559,City of Spearfish,225 Illinois Street W,Comm-Alteration,Donovan Const,19501.00,,,
+2017,10,17-0543,Spearfish Forest Products,1510 Oliver Street W,Comm-Demo,Self,,15.00,,True
+2017,10,17-0216,Dennis Forgey Const,3220 1st Avenue,Comm-New Building,Dennis Forgey Const,287000.00,1857.40,2350.00,
+2017,10,17-0510,Ponderosa Apartments,430 Oriole Drive,Comm-Repair,Journey Group Co.,16229.00,324.00,,
+2017,10,17-0538,Lantis Enterprises,4525 Colorado Blvd E,Comm-Repair,Bridger Construction,3000.00,72.00,,
+2017,10,17-0540,Jon Pochop,646 Colorado Blvd E,Comm-Repair,"Winsell Const, LLC",876.00,27.00,,
+2017,10,17-0526,Salvation Army,320 Ryan Road,Comm-Shed,Self,5000.00,,,
+2017,10,17-0532,"Frontgate Holdings, LLC",102 Valley Drive,Mfg MH Placement,"Wirkus Transport, LLC",17000.00,50.00,,True
+2017,10,17-0545,"MLJ Properties SD, LLC",353 Hillsview Drive #8,Mfg MH Placement,B & B MH Transport,25000.00,50.00,,
+2017,10,17-0546,"MLJ Properties SD, LLC",353 Hillsview Drive #11,Mfg MH Placement,B & B MH Transport,35000.00,50.00,,
+2017,10,17-0562,Linda Heavilin,1228 Foothills Drive,Mfg MH Placement,Northern Hills Homes,75000.00,50.00,,
+2017,10,17-0542,Mark Jensen,4327 Partridge Place,Res-Addition,Self,40000.00,426.00,,True
+2017,10,17-0365,Clay/Anna Dykstra,1020 Verdale Drive,Res-Alteration,Self,2500.00,72.00,,
+2017,10,17-0490,David McClure,708 31st Street S,Res-Alteration,Boulder Canyon Const,950.00,30.00,,
+2017,10,17-0511,Paul Young,145 7th Street N,Res-Alteration,AM Construction,21700.00,360.00,,
+2017,10,17-0513,Valley Vista Condo Assn,835 Hill Street W,Res-Alteration,RC Constuction,4200.00,96.00,,
+2017,10,17-0550,Jeremy Garman,201 Ponderosa,Res-Deck,The Axe and Chisel,25000.00,336.00,,True
+2017,10,17-0556,Roger Martin,249 5th Street S,Res-Deck,Munro Earthmoving,69038.00,586.00,,
+2017,10,17-0563,Linda Heavilin,1228 Foothills Drive,Res-Deck,Northern Hills Homes,1500.00,45.00,,
+2017,10,17-0493,Jeff Kletzmayer,1034 Main Street,Res-Demo,Delta Construction,,15.00,,
+2017,10,17-0512,Sharon Hoggatt,544 7th Street N,Res-Demo,Meredith Services Co,,15.00,,
+2017,10,17-0554,Alan Schock,2010 Meadow Lane,Res-Finish Basement,Self,10000.00,231.00,,True
+2017,10,17-0548,Nikkita Kaufmann,3881 Ward Avenue,Res-Finish Basement,Self,8350.00,194.00,,
+2017,10,17-0494,Chris/Talia Gasbarre,2235 Lookout Vista Road,Res-Garage,Morton Building Inc.,168529.00,1075.80,,True
+2017,10,17-0506,Kent Sorenson,373 Oak Ridge Road,Res-Garage,Siemonsma Construction,17000.00,240.00,,True
+2017,10,17-0539,Francis Madden,14 Tom Ral Drive,Res-Garage,Dunwoody,17000.00,240.00,,True
+2017,10,17-0491,Vallin Richards,305 8th Street N,Res-Mechanical,Jansen Plumbing,500.00,25.00,,
+2017,10,17-0504,Wade/Kendra Beringer,110 5th Street S,Res-Mechanical,Precision Mechanical,4951.00,50.00,,
+2017,10,17-0533,Perry Wegner,520 King,Res-Mechanical,Self,2000.00,50.00,,
+2017,10,17-0560,Bob & Darla Miller,127 Saint Joe Street,Res-Mechanical,Precision Mechanical,13411.00,75.00,,
+2017,10,17-0565,Adam McMahon,405 Saint Joe Street,Res-Mechanical,Self,2000.00,25.00,,
+2017,10,17-0520,Andy & Jamie Van Deest,3204 Whitetail Lane,Res-New Dwelling,Andy Van Deest Const,283000.00,1579.60,,True
+2017,10,17-0514,T.J. Gusso,209 Stone Gate Drive,Res-New Dwelling,High Plains Const,400000.00,2171.00,1000.00,
+2017,10,17-0515,"Redwater Homes, LLC",1669 Russell Street,Res-New Dwelling,"Redwater Homes, LLC",240000.00,1499.00,1000.00,
+2017,10,17-0516,"Redwater Homes, LLC",1685 Russell Street,Res-New Dwelling,"Redwater Homes, LLC",200000.00,1331.00,1000.00,
+2017,10,17-0521,Daryl Johnson,1516 Woods Edge Court,Res-New Dwelling,Lou-Lon Const,465000.00,2444.00,1000.00,
+2017,10,17-0527,Higgins Creek Custom Hm,1811 Reserve Street,Res-New Dwelling,Higgins Creek Custom Hm,182000.00,1255.40,1000.00,
+2017,10,17-0528,Higgins Creek Custom Hm,1813 Reserve Street,Res-New Dwelling,Higgins Creek Custom Hm,182000.00,1255.00,1000.00,
+2017,10,17-0531,James Bockwoldt,413 Tranquility Lane,Res-New Dwelling,Tetrault-Kirk,225000.00,1436.00,1000.00,
+2017,10,17-0541,Earth-Con Excavating,2220 Arrowhead Circle,Res-New Dwelling,Earth-Con Excavating,160000.00,1163.00,1000.00,
+2017,10,17-0557,Dan Kaiser,344 Highway 14 W,Res-Roof,Allied Construction,5319.00,108.00,,True

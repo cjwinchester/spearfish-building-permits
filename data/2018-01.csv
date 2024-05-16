@@ -1,0 +1,28 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,01,170648,Crow Peak Properties,125 Highway 14 W,Comm-Addition,"All Star Construction, Inc.",181500.00,1356.40,1016.00,True
+2018,01,170662,Zacher Properties LLC,245 Main St. N,Comm-Alteration,Dunn Construction,13000.00,192.00,,
+2018,01,180007,Vital Life Chiropractic,3103 Fairground Lp. E,Comm-Alteration,Self,6000.00,108.00,,
+2018,01,180032,Jessica Flaigg,144 Hudson St. W,Comm-Alteration,Self,1200.00,36.00,,
+2018,01,180011,SCD LLC,1215 McGuigan Rd.,Comm-Alteration,Donovan Plumbing LLC,42000.00,582.00,,True
+2018,01,180021,Spearfish Forest Products,1510 Oliver Street W,Comm-Alteration,"Marcus Custom Builders,",35000.00,576.00,,True
+2018,01,180024,Diversified Construction S,3710 O ld Belle Rd.,Comm-Mechanical,Diversified Construction S,2500.00,72.00,,
+2018,01,180036,S5 Properties,3135 4th Ave.,Comm-New Building,S5 Properties,275000.00,1471.00,2800.00,
+2018,01,180020,Fuji Sushi Bar & Grill,126 Hudson Street W,Comm-Plumbing,"The Plumber, Inc.",5329.00,108.00,,
+2018,01,180035,Luella & Robert Adler,2509 Windmill Dr. #314,Comm-Repair,The Handyman LLC,35000.00,468.00,,
+2018,01,180005,City of Spearfish,540 32nd St.,Fence,Self,21510.00,,,
+2018,01,180014,Caudill Properties LLC,1444 Canyon St. N,Res-Alteration,Barnett Custom Building,5000.00,146.00,,
+2018,01,180029,Cathy Sullivan,915 Sunset Dr.,Res-Alteration,Mickelson Construction S,38000.00,454.00,,
+2018,01,180038,Eric & Danielle Ligtenberg,1044 8th St. N,Res-Alteration,Self,5000.00,96.00,,
+2018,01,180006,Dustin Hoffman,1929 Absaroka St.,Res-Basement,Self,3750.00,134.00,,
+2018,01,180022,Cole Bailey,2434 Clear Spring Rd.,Res-Basement,Self,8000.00,182.00,,
+2018,01,180030,Jess Moser,1906 Brookdale Rd.,Res-Basement,Self,8000.00,182.00,,
+2018,01,180031,Redwater Homes LLC,1809 Reserve St.,Res-Basement,Redwater Homes LLC,35000.00,446.00,,
+2018,01,180033,James Nelson,2005 Saddle Horn Dr.,Res-Basement,Apex Construction,30926.00,422.00,,
+2018,01,180019,Kim Shavone,106 Vale Rd.,Res-Garage,Self,2000.00,60.00,,
+2018,01,180013,Abigail/William Domagall,1409 Jackson Blvd. W,Res-Mechanical,Northern Hills Handyman,500.00,25.00,,
+2018,01,180010,M&B Mechanical,630 Spearfish Canyon Rd,Res-Mechanical,M&B Mechanical,3474.75,25.00,,True
+2018,01,180004,Heritage Homes,7812 Duke Pkwy.,Res-New Dwelling,Heritage Homes,400000.00,2171.00,1000.00,
+2018,01,180018,Legacy Enterprises,735 10th St.,Res-New Dwelling,Legacy,250000.00,1541.00,1000.00,
+2018,01,170641,Matt & Amber Symonds,19899 Gobbler Rd.,Res-New Dwelling,Diversified Construction S,370000.00,1945.00,,True
+2018,01,180002,Legacy Enterprises,19955 Gobbler Rd.,Res-New Dwelling,Legacy,365000.00,1924.00,,True
+2018,01,180001,Travis Towry,1507 Ames St. N,Res-Repair,Righteous Garage Doors,6500.00,120.00,,

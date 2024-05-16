@@ -1,0 +1,35 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2015,05,15-0001,Jo Powell,111 Dubois Lane,Res-Alteration,MCD Const Serv,2000.00,60.00,,True
+2015,05,15-0190,Crow Peak Brewing,125 Highway 14 W,Shed,Self,6000.00,108.00,,True
+2015,05,15-0212,Brad Bruns,7700 Duke Parkway,Res-Finish Basement,Bruns Const,35000.00,446.00,,
+2015,05,15-0214,Brad Bruns,7704 Duke Parkway,Res-Finish Basement,Bruns Const,35000.00,446.00,,
+2015,05,15-0220,Mike/Donna Madler,23 Tom Ral Drive,Res-New Dwelling,Matson Const,220000.00,1315.00,,True
+2015,05,15-0223,Tad/Heather Brewer,19978 Gobbler Road,Res-New Dwelling & Det Gar,Delta Construction,634000.00,2973.40,,True
+2015,05,15-0230,Ken Gardner,2325 Highway 14 W,Res-Garage,Broderson Brothers,35000.00,446.00,,
+2015,05,15-0233,Rod/Sandy Garnett,2373 Tumble Weed Trl,Res-New Dwelling,Dakota Builders,300000.00,1751.00,1000.00,
+2015,05,15-0238,Dan/Marybeth Blair,1735 3rd Street N,Res-Alteration,Mollman Builders,70000.00,661.00,,
+2015,05,15-0239,Daryl/Sally Isburg,1245 Country Club Dr,Res-Alteration,Orth Construction,17500.00,292.00,,
+2015,05,15-0243,"DC Investments, LLC",309 Main,Comm-Roof,KLM Exco LLC,8500.00,144.00,,
+2015,05,15-0244,Michael/Sara Delano,368 Evans Lane,Res-Addition,Andy Coyle Const,106000.00,761.20,,
+2015,05,15-0246,Henry/Delores Urban,1117 Crow Peak Lane,Res-Carport,Dreams Carports,5700.00,108.00,,
+2015,05,15-0247,Larry/Connie Turner,1205 Foothills Drive,Res-Deck,Self,1070.00,60.00,,
+2015,05,15-0249,Bill/Jude Warner,1448 5th Street,Res-Addition,Lafayette Const,12000.00,180.00,,
+2015,05,15-0252,Richard/Gloria Pluimer,217 Flintlock Circle,Res-Deck,Jess Reausaw Const,15000.00,216.00,,
+2015,05,15-0253,Diversified Const Services,2699 Tumble Weed Tr,Res-New Dwelling,Diversified Const Serv,317000.00,1822.40,1000.00,
+2015,05,15-0254,John Carter,805 Illinois Street E,Res-Shed,Self,500.00,15.00,,
+2015,05,15-0255,Lutheran Social Services,2519 Windmill Drive,Comm-Alteration,Ty Construction,30000.00,366.00,,
+2015,05,15-0257,R & R LLC,3550 Colorado Blvd,Comm-New Building,Kokinos,700000.00,3472.00,2350.00,
+2015,05,15-0260,Doug Lueders,126 State Street #6,MFG MH Placement Fee,Northern Hills Homes,,50.00,,
+2015,05,15-0261,City of Spearfish,625 5th Street Cty Hall,Mechanical,Johnson Controls,93250.00,,,
+2015,05,15-0262,Joe Conklin,130 Ryan Road,Demo,Kokinos,,15.00,,
+2015,05,15-0263,Larry Moe,130 Hardy Drive,Res-Garage,Steve Michels Const,84580.00,661.00,,True
+2015,05,15-0265,Days Inn,240 Ryan Road,Mechanical,Sharkey Plumbing,9000.00,144.00,,
+2015,05,15-0268,Ted Rewitzer,1920 Ward Avenue,Res-Finish Basement,Diversified Const Serv,32000.00,428.00,,
+2015,05,15-0269,Diversified Const Services,509 Wildwood Dr,Res-Finish Basement,Diversified Const Serv,25000.00,386.00,,
+2015,05,15-0270,Fred/Priscilla Romkema,3224 Fairground Lp E,Comm-Addition,Matson Const,35000.00,396.00,,
+2015,05,15-0271,Spearfish Creekside LLC,2525 North Ave,Demo,Self,,15.00,,
+2015,05,15-0272,Spring Creek Ranch,1130 Main,Comm-Roof,Downs Const,7280.00,132.00,,
+2015,05,15-0273,Spring Creek Ranch,1140 Main #2,Comm-Roof Repair,Downs Const,750.00,24.00,,
+2015,05,15-0279,Eddie Harris,515 7th Street N,Res-Carport,Myers Const,1500.00,45.00,,
+2015,05,15-0280,Tom/Mary Myers,240 Kansas Street E,Res-Alteration,Myers Const,50000.00,546.00,,
+2015,05,15-0281,Raymond Meverden,272 Terry Lane,Res-Deck,Self,500.00,15.00,,

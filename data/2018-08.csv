@@ -1,0 +1,43 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,08,180376,St. Joseph's Catholic Church,115 Lincoln St. W,Comm-Addition,MCD Construction,1700.00,24.00,,
+2018,08,180378,Jenny & Luke Donovan,127 Illinois St. W,Comm-Alteration,T V Construction,35000.00,396.00,,
+2018,08,180401,Ponderosa Apartments,610 Michigan St. E,Comm-Alteration,MAC Construction Inc.,1587000.00,6951.80,,
+2018,08,180382,Tom Johnson,250 Aviation Pl.,Comm-Mechanical,Larry's Plumbing & Heating,500.00,25.00,,
+2018,08,180409,Tom Jackson,578 Aviation Pl.,Comm-Mechanical,Sharkey Plumbing & Heating,800.00,25.00,,
+2018,08,180365,DK Rentals,518 Jackson Blvd. W,Comm-Roof,DK Rentals,10000.00,156.00,,
+2018,08,180381,Cleo Rowe,842 Jackson Blvd. W,Comm-Roof,Paul Leth Construction,5500.00,108.00,,
+2018,08,180362,Arnold & Zana Hartman,717 Grant St. E,Res-Addition,True Builders,20000.00,276.00,,
+2018,08,180372,Jeremy & Melissa Barnett,1026 Spartan Dr.,Res-Alteration,Self,1000.00,30.00,,
+2018,08,180388,John Sweaney,2310 Oliver St. W,Res-Alteration,Mickelson Construction Service,7900.00,157.00,,True
+2018,08,180394,Steve Aalbu,2428 Windmill Dr.,Res-Alteration,Jeff the Handyman Can,12000.00,180.00,,
+2018,08,180400,Kirk Munro,314 Highway 14 W,Res-Alteration,Munro Earthmoving LLC,10000.00,156.00,,True
+2018,08,180422,Noah Friedel,314 Main St.,Res-Alteration,Self,30000.00,541.00,,
+2018,08,180389,David & Meghan O'Bryan,19947 Merriam Lp.,Res-Basement,Hart Homes LLC,42000.00,463.00,,True
+2018,08,180374,Jami Shoenewies,1034 8th St. N,Res-Deck,Blue Heron Carpentry,500.00,15.00,,
+2018,08,180379,Nikita & Alex Edwards,1028 35th St. S,Res-Deck,Self,800.00,24.00,,
+2018,08,180361,Dennis Harwood,305 Saint Joe St.,Res-Demo,Self,,15.00,,
+2018,08,180377,Rachel Hedley,220 Upper Valley Rd.,Res-Demo,Pangea Design Group,,15.00,,True
+2018,08,180385,Dave Burr,215 Evans Ln.,Res-Demo,Myers Construction,,15.00,,
+2018,08,180363,David & Reva Sigle,1519 Oliver St.,Res-Garage,Self,40000.00,491.00,,
+2018,08,180371,Don & Linda Meisinger,273 Pine Cone Ave.,Res-Garage,Munro Earthmoving LLC,25000.00,336.00,,True
+2018,08,180406,Scott Jacobs,2439 Sunset Ranch Rd.,Res-Garage,P L Carpentry,78000.00,626.00,,True
+2018,08,180411,Larry and Penny Capp,427 Main St.,Res-Garage,Pangea Design Group,38000.00,414.00,,
+2018,08,180368,Darcy Harbott,606 Fish Hatchery Lp.,Res-Mechanical,Precision Mechanical,2000.00,25.00,,True
+2018,08,180412,Wade Iszler,2021 Stampede Dr.,Res-Mechanical,Wolff's Plumbing & Heating,14550.00,50.00,,
+2018,08,180413,Jon Rosander,2310 Dairy Ln.,Res-Mechanical,Wolff's Plumbing & Heating,800.00,25.00,,True
+2018,08,180357,Jared & Kelie Wilson,725 Industrial Dr.,Res-New Dwelling,Timberline Builders Inc.,510000.00,2635.00,,True
+2018,08,180358,Redwater Homes LLC,3770 Beartooth Lp.,Res-New Dwelling,Redwater Homes LLC,275000.00,2981.00,1000.00,
+2018,08,180366,Luke Donovan,601 & 603 Christensen Dr.,Res-New Dwelling,"Swift Companies, LLC",149213.00,1456.00,1000.00,
+2018,08,180367,Luke Donovan,597 & 599 Christensen Dr.,Res-New Dwelling,"Swift Companies, LLC",149213.00,1456.00,1000.00,
+2018,08,180390,Dave Burr,215 Evans Ln.,Res-New Dwelling,Myers Construction,220000.00,1465.00,,
+2018,08,180391,Redwater Homes LLC,4021 Pintlar Ave.,Res-New Dwelling,Redwater Homes LLC,220000.00,1750.00,1000.00,
+2018,08,180396,Ron & Judy Smith,7943 Brooks Lp.,Res-New Dwelling,Legacy Enterprises,486000.00,2917.20,1000.00,
+2018,08,180410,Kodi & Ford Dodds,7962 Drake Ct.,Res-New Dwelling,Queen City Door LLC,320000.00,2220.00,1000.00,
+2018,08,180417,Luke Donovan,585 & 587 Christensen Dr.,Res-New Dwelling,"Swift Companies, LLC",149213.00,1456.00,1000.00,
+2018,08,180418,Luke Donovan,589 & 591 Christensen Dr.,Res-New Dwelling,"Swift Companies, LLC",149213.00,1456.00,1000.00,
+2018,08,180419,Luke Donovan,593 & 595 Christensen Dr.,Res-New Dwelling,"Swift Companies, LLC",149213.00,1456.00,1000.00,
+2018,08,180404,Brandon Lampe,3030 Ridge Rd.,Res-Plumbing,Sharkey Plumbing & Heating,4200.00,55.00,,True
+2018,08,180359,Dave Berberick,1008 Verdale Dr.,Res-Repair,Mollman Builders Inc.,500.00,15.00,,
+2018,08,180360,Jude & Bill Warner,1448 5th St. N,Res-Repair,Blackburn Basement Systems,23317.75,324.00,,
+2018,08,180402,Courtney Huse-Wika,406 Lone Elk Rd.,Res-Repair,Marcus Custom Builders,20000.00,276.00,,True
+2018,08,180420,Dianna Loup,3805 Spring Creek Ln.,Res-Shed,Self,400.00,84.00,,True

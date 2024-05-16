@@ -1,0 +1,40 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,06,17-0307,Williams Properties,321 Rushmore St W,Comm-Alteration,Rand Williams,7250.00,240.00,,
+2017,06,17-0308,City of Spearfish,120 Industrial Drive,Comm-Alteration,Journey Group Co,951212.00,,,
+2017,06,17-0313,Famous Wok,2825 1st Avenue,Comm-Alteration,C 1 Construction LLC,204398.00,1645.00,,
+2017,06,17-0314,"Minitman, Inc.",1718 North Avenue,Comm-Alteration,"Amwall, LLC",9612.00,156.00,,
+2017,06,17-0323,Lueders Food Ctr,620 7th Street N,Comm-Alteration,Northern Hills Homes,12000.00,240.00,,
+2017,06,17-0302,Dale Bakke,538 Aviation Place,Comm-Mechanical,Self,1000.00,30.00,,
+2017,06,17-0324,Zac/Jessica Eixenberger,1930 North Avenue,Comm-Mechanical,Foltz & Sons,3500.00,84.00,,
+2017,06,17-0321,Queen City Futbol Club,515 Grant Street E,Comm-New Building,Tetrault-Kirk,5000.00,,,
+2017,06,17-0341,City of Spearfish,615 Nevada Street E,Comm-New Building,Pangea Design Group,28000.00,,,
+2017,06,17-0329,High Plains Western Heritage,825 Heritage Drive,Comm-Roof,Lowe Roofing,110000.00,778.00,,
+2017,06,17-0327,Josh Christopherson,1114 Spearfish Mtn Ln,Res-Addition,Self,4000.00,84.00,,
+2017,06,17-0301,Matt Kinney,263 Oak Ridge Road,Res-Alteration,Barnett Custom Bldg,15000.00,216.00,,True
+2017,06,17-0294,Fred/Priscilla Romkema,230 Fairway Drive,Res-Alteration,Mickelson Const,4000.00,99.00,,
+2017,06,17-0311,Jonathan/Diane Reth,1818 Sarah Avenue,Res-Alteration,Big Timber Properties,85000.00,686.00,,
+2017,06,17-0317,Joel Schmidt/Jean Fisher,929 Main Street,Res-Alteration,Self,7000.00,175.00,,
+2017,06,17-0328,Brooks Hanna,110 Fairway Drive,Res-Alteration,Pella Windows-Heartland,6138.00,120.00,,
+2017,06,17-0330,Jennifer/Jack Scholl,2211 Blue Bell Loop,Res-Alteration,Doug Cole Const,5500.00,108.00,,
+2017,06,17-0347,Kyle Mathis,231 Washington St,Res-Alteration,Self,500.00,50.00,,
+2017,06,17-0297,Randee Peterson,157 Timberline Road,Res-Deck,Self,2000.00,60.00,,True
+2017,06,17-0349,Shawn/Jodi Fox,703 Pine Road,Res-Finish Basement,Robert Sprague,6000.00,108.00,,True
+2017,06,17-0299,Barbara Johnson,234 Harney Peak Court,Res-Garage,Dreams Carports,1688.00,51.00,,
+2017,06,17-0326,James Peterson,3114 Meadow Lane,Res-Mechanical,Wolff's Plumbing,9000.00,15.00,,True
+2017,06,17-0348,Robert Reiswig,280 Upper Valley Road,Res-Mechanical,By the Boock Plumbing,3500.00,25.00,,True
+2017,06,17-0298,Kristopher Kryza,705 Grant Street E,Res-Mechanical,"Service First, Inc.",1000.00,15.00,,
+2017,06,17-0303,John Ainsworth,201 Cottonwood Drive,Res-Mechanical,Spearfish Electric,7645.00,25.00,,
+2017,06,17-0306,Diversified Const Serv,19931 Gobbler Road,Res-New Dwelling,Diversified Const Serv,415000.00,2134.00,,True
+2017,06,17-0350,Todd/Sharon Hemmingson,2224 Lookout Vista Rd,Res-New Dwelling,Self,110000.00,853.00,,True
+2017,06,17-0259,High Plains Builders of Wy,8113 Luke Court,Res-New Dwelling,High Plains Builders of Wy,260000.00,1583.00,1000.00,
+2017,06,17-0289,Chris/Dawn Keller,2509 Paramount Drive,Res-New Dwelling,Crowley Const,400000.00,2171.00,1000.00,
+2017,06,17-0290,Chris/Dawn Keller,2511 Paramount Drive,Res-New Dwelling,Crowley Const,400000.00,2171.00,1000.00,
+2017,06,17-0293,Andy Coyle Const,7926 Duke Parkway,Res-New Dwelling,Andy Coyle Const,215000.00,1394.00,1000.00,
+2017,06,17-0295,Andy Coyle Const,7928 Duke Parkway,Res-New Dwelling,Andy Coyle Const,215000.00,1394.00,1000.00,
+2017,06,17-0300,Dailey Const,8110 Luke Court,Res-New Dwelling,Dailey Const,350000.00,1961.00,1000.00,
+2017,06,17-0305,Diversified Const Serv,8125 Luke Court,Res-New Dwelling,Diversified Const Serv,385000.00,2108.00,1000.00,
+2017,06,17-0339,"Trilogy Properties, LLC",8108 Brooks Loop,Res-New Dwelling,Three Waters LLC,195200.00,1314.20,1000.00,
+2017,06,17-0340,"Trilogy Properties, LLC",8107 Brooks Loop,Res-New Dwelling,Three Waters LLC,197900.00,1322.60,1000.00,
+2017,06,17-0342,Ronald/Marilyn Erion,340 Hudson Street W,Res-New Dwelling,Self,167500.00,1196.60,,
+2017,06,17-0345,Legacy Enterprises,2321 Bridgestone St,Res-New Dwelling,Legacy Enterprises,400000.00,2171.00,1000.00,
+2017,06,17-0322,Justin Frasier,2625 Highway 14 W,Res-Plumbing,Self,1000.00,65.00,,

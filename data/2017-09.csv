@@ -1,0 +1,38 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,09,17-0482,Spearfish Forest Products,1510 Oliver Street W,Comm-Addition,Apex Const,22440.00,312.00,,True
+2017,09,17-0443,GSE Clay Lining Tech,3150 1st Avenue,Comm-Alteration,Journey Group Co,24831.00,386.00,,
+2017,09,17-0469,Williams Properties,517 Jackson Blvd W,Comm-Alteration,Rand Williams,1000.00,30.00,,
+2017,09,17-0485,Bob/Sherry Ewing,3226 Fairground Loop W,Comm-Alteration,Tetrault-Kirk,10000.00,156.00,,
+2017,09,17-0487,BHIS,115 Hudson Street E,Comm-Alteration,Delta Construction,5000.00,96.00,,
+2017,09,17-0466,City of Spearfish,540 32nd Street,Comm-Deck,Self,10000.00,,,
+2017,09,17-0497,Legacy Enterprises,4415 Colorado Blvd E,Comm-Demo,Legacy Enterprises,,15.00,,
+2017,09,17-0468,Speedy Mart,3355 Old Belle Road,Comm-New Building,Lowe-North Construction,150000.00,946.00,,
+2017,09,17-0461,The Shear Cut,1410 North Avenue #5,Comm-Plumbing,Johnson Plumbing,3000.00,72.00,,
+2017,09,17-0492,Phyllis Hart,132 Illinois Street W,Comm-Repair,AmWall LLC,19742.00,276.00,,
+2017,09,17-0459,Mark/Kristin Friedel,206 Colorado Blvd E,Comm-Roof,All American Roofing & S,11000.00,168.00,,
+2017,09,17-0479,Christopher Whipkey,1224 Foothills Drive,Mfg MH Placement,Centennial Homes,103000.00,50.00,,
+2017,09,17-0454,Larry Mendoza,1507 Ames Street,Res-Addition,Righteous Garage Doors,54300.00,511.00,,
+2017,09,17-0489,Paul/Brenda Bishop,1007 Spearfish Mtn Lane,Res-Addition,Self,2250.00,72.00,,
+2017,09,17-0476,Thomas/Diana Berkland,1525 Camp Comfort Rd,Res-Alteration,Self,15000.00,216.00,,True
+2017,09,17-0503,Bill Termes,625 Illinois Street E,Res-Alteration,Self,4500.00,96.00,,
+2017,09,17-0481,Clarence/Bonnie Zeiszler,1230 Foothills Drive,Res-Deck,Northern Hills Homes & RV,3000.00,72.00,,
+2017,09,17-0451,Dan Kaiser,1139 Ames Avenue,Res-Demo,Dennis Forgey Const,,15.00,,
+2017,09,17-0462,"Redwater Homes, LLC",3898 Ward Avenue,Res-Finish Basement,Redwater Homes LLC,15000.00,216.00,,
+2017,09,17-0488,Creed Properties,2237 Tumble Weed Trail,Res-Finish Basement,Creed Construction,40000.00,481.00,,
+2017,09,17-0450,Darcy Harbott,606 Fish Hatchery Loop,Res-Garage,Self,150000.00,1031.00,,True
+2017,09,17-0478,Glen Koppinger,3530 Higgins Gulch Road,Res-Garage,Hemeyer Enterprises,30000.00,366.00,,True
+2017,09,17-0460,Stanley/Cathe White,344 Illinois Street E,Res-Garage,American Garage Builders,19930.00,276.00,,
+2017,09,17-0465,Luella/Robert Adler,1001 10th Street N,Res-Garage,The Handy Man,12000.00,180.00,,
+2017,09,17-0484,Ronald Erion,340 Hudson Street W,Res-Garage,Self,22500.00,312.00,,
+2017,09,17-0495,Tracy/Gaylan Melvie,1306 Foothills Drive,Res-Garage,Dreams Carports,3995.00,84.00,,
+2017,09,17-0464,Bonnie/Kevin Klunder,625 Nellie Lane,Res-Mechanical,Precision Mechanical,6000.00,25.00,,
+2017,09,17-0471,Sharilyn/James Wise,2020 Stampede Drive,Res-Mechanical,Sharkey Plumbing,3000.00,15.00,,
+2017,09,17-0477,Joe Cristens,1108 S. 36th Street,Res-Mechanical,Integrity Heat,9500.00,25.00,,
+2017,09,17-0455,Scott Jacobs,2439 Sunset Ranch Rd,Res-New Dwelling,P L Carpentry,368000.00,1936.60,,True
+2017,09,17-0480,Diversified Const Serv,19955 Merriam Loop,Res-New Dwelling,Diversified Const Serv,350000.00,1861.00,,True
+2017,09,17-0449,Heritage Homes,7816 Duke Parkway,Res-New Dwelling,Heritage Homes,300000.00,1751.00,1000.00,
+2017,09,17-0457,High Plains Construction,2424 Tumble Weed Trl,Res-New Dwelling,High Plains Const,300000.00,1751.00,1000.00,
+2017,09,17-0463,Clarence/Bonnie Zeiszler,1230 Foothills Drive,Res-New Dwelling,Northern Hills Homes & RV,4000.00,99.00,,
+2017,09,17-0467,DMD Construction,2152 Tumble Weed Trl,Res-New Dwelling,DMD Construction,260000.00,1583.00,1000.00,
+2017,09,17-0475,Marissa/Kyle Tuttle,3300 Roughlock Lane,Res-New Dwelling,Routh Const,22000.00,400.00,1000.00,
+2017,09,17-0453,Justin/Kristen Feeser,223 Stone Gate Drive,Res-Retaining Wall,Self,12000.00,180.00,,

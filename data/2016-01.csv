@@ -1,0 +1,23 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2016,01,15-0583,Tim Kleven,4050 Airport Road,Res-Garage,Four Aces Contracting,88000.00,676.00,,True
+2016,01,15-0652,Thomas/Sarah Sandvick,1420 Pheasant Lane,Res-Mechanical,Wolff's Plumbing,3275.00,25.00,,True
+2016,01,16-0001,Spearfish Building Supply,821 Canyon Street,Comm-Alteration,Lou-Lon,1000.00,30.00,,
+2016,01,16-0002,City of Spearfish,5525 Us Highway 85,Comm-Repair,Donovan Const,6525.00,,,True
+2016,01,16-0003,Marlene Griffith,2816 Tumble Weed Trail,Res-New Dwelling,Dakota Builders,325000.00,1856.00,1000.00,
+2016,01,16-0004,Chris Pangburn,2154 Arrowhead Circle,Res-New Dwelling,Legacy Enterprises,195000.00,1310.00,1000.00,
+2016,01,16-0005,Chris Pangburn,2160 Arrowhead Circle,Res-New Dwelling,Legacy Enterprises,195000.00,1310.00,1000.00,
+2016,01,16-0006,Calvin Dardis,621 Main,Comm-Plumbing,Waterworks,5600.00,108.00,,
+2016,01,16-0007,Rand/Gayla Williams,231 Jackson Blvd,Comm-Alteration,Self,300.00,15.00,,
+2016,01,16-0008,Rolling Bones Outfitters,522 Jackson Blvd W,Comm-Alteration,Self,4500.00,96.00,,
+2016,01,16-0009,Diversified Const Serv,1570 Shoshone Avenue,Res-New Dwelling,Diversified Const,155000.00,1142.00,1000.00,
+2016,01,16-0010,"Beachhead Ventures, LLC",522 Main Street,Comm-Roof,Lowe Roofing,12365.00,192.00,,
+2016,01,16-0011,Scott/Dawn Kennedy,209 Washington St,Res-Alteration,AM Construction,9500.00,191.00,,
+2016,01,16-0012,Brian/Trina Kindsfater,23 Horseshoe Lane,Res-Alteration,Self,2500.00,72.00,,True
+2016,01,16-0014,Legacy Enterprises,1909 Country Oaks Ln,Res-New Dwelling,Legacy Enterprises,301797.00,1759.40,1000.00,
+2016,01,16-0016,Northern Hills Cinema,1830 Main Street,Comm-Roof,Lowe Roofing,53715.00,506.00,,
+2016,01,16-0017,Jeremy/Melissa Barnett,1026 Spartan Drive,Res-Alteration,Self,5000.00,96.00,,
+2016,01,16-0019,Pete Lien & Sons Inc.,335 Industrial Dr-Plant,Comm-Addn,Ainsworth-Benning,57000.00,521.00,,
+2016,01,16-0023,Thomas Huffman,1104 Crow Peak Lane,Carport,Dreams Carports,5000.00,96.00,,
+2016,01,16-0025,Northern Hills Alcohol Reh,710 Colorado Blvd E,Comm-Alteration,Self,52000.00,,,
+2016,01,16-0028,Chris/Kelli Ewert,325 8th Street,Res-Mechanical,Advanced Boiler,7000.00,25.00,,
+2016,01,16-0029,Randy Christopherson,1130 Spearfish Mtn Lane,MH Placement,Self,15000.00,50.00,,

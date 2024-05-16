@@ -1,0 +1,18 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2018,02,180041,Wolff's Plumbing & Heating,125 Industrial Dr.,Comm-Alteration,Self,13410.00,456.00,,
+2018,02,180054,Sodak Brewing Company,741 Main St.,Comm-Alteration,Pangea Design Group,38000.00,84.00,,
+2018,02,180066,Spring Creek Ranch,211 Main St.,Comm-Alteration,Advanced Builders,750.00,24.00,,
+2018,02,180053,Spearfish Forest Products,1510 Oliver St. W,Comm-Alteration,Diamond L Fire Protectio,4000.00,84.00,,True
+2018,02,180065,EIX Holdings,3103 Fairground Loop E,Comm-Repair,Jeff the Handyman Can,4000.00,84.00,,
+2018,02,180049,Traig Friedrich,209 Vermont St.,Res-Alteration,Self,500.00,15.00,,
+2018,02,180060,Marcus Custom Builders,1015 Verdale Dr.,Res-Alteration,Marcus Custom Home Bu,25000.00,401.00,,
+2018,02,180042,Holly & James Mortenson,3778 Ward Ave.,Res-Basement,Self,12000.00,205.00,,
+2018,02,180062,Kendra & Tanner McGinn,1913 Cascade Ct.,Res-Basement,Self,12000.00,230.00,,
+2018,02,180064,Caleb Kirsch,1822 Durgin Ct.,Res-Basement,3-D Construction,35989.00,452.00,,
+2018,02,180070,Steve Zubrod,592 Mountain View Rd.,Res-Garage,MCD Construction,25000.00,336.00,,True
+2018,02,180044,"LRBG, LLC",704 8th St.,Res-Mechanical,J&S Sheetmetal,15000.00,50.00,,
+2018,02,180059,Spearfish Electric & Heat,387 Evans Ln.,Res-Mechanical,Spearfish Electric & Heat,3390.00,25.00,,
+2018,02,180063,Lorie & Joe Bennett,621 Maple Dr.,Res-Mechanical,A Plus Plumbing LLC,700.00,25.00,,
+2018,02,180039,Diversified Const. Service,1717 Russel St.,Res-New Dwelling,Diversified Const. Service,290000.00,2044.00,1000.00,
+2018,02,180061,Diversified Const. Service,3643 Day Spring Ln.,Res-New Dwelling,Diversified Const. Service,400000.00,2071.00,,True
+2018,02,180037,Kirk Munro,19413 US Hwy 85,Res-Shed,Munro Earthmoving LLC,230000.00,1282.00,,True

@@ -1,0 +1,40 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2017,11,17-0592,Munro Earthmoving,3309 Fairground Loop W,Comm-Addition,Munro Earthmoving,46800.00,498.00,,
+2017,11,17-0566,Spearfish Chamber,106 Kansas St. W,Comm-Alteration,Donovan Const,116920.00,,,
+2017,11,17-0570,Lori Barnett,741 Main St N Ste 250,Comm-Alteration,Tsquard Enterprise,63000.00,767.00,,
+2017,11,17-0585,"Spearfish Foodies, LLC",741 Main St N Ste 120,Comm-Alteration,Baete Forseth,88486.00,681.00,,
+2017,11,17-0586,Legacy Enterprises,3525 Colorado Blvd E,Comm-Alteration,Legacy Enterprises,2500.00,72.00,,
+2017,11,17-0587,Legacy Enterprises,3525 Colorado Blvd E 1,Comm-Alteration,Pro Circuit Elec,9250.00,186.00,,
+2017,11,17-0597,E & J Holdings LLC,115 Hudson Street W,Comm-Alteration,Rapid Foundation Rep,150000.00,946.00,,
+2017,11,17-0599,Aspen Square,"1420 North Ave, 4B",Comm-Alteration,Advanced Builders,13134.00,204.00,,
+2017,11,17-0601,Williams Properties,722 Main Street,Comm-Alteration,Rand Williams,125.00,15.00,,
+2017,11,17-0602,Williams Properties,745 5th Street N,Comm-Alteration,Rand Williams,1750.00,54.00,,
+2017,11,17-0607,Dave/Karen Fremont,917 Johnson Lane,Comm-Alteration,Self,25000.00,552.00,,
+2017,11,17-0608,False Bottom Bar LLC,645 Main Street,Comm-Alteration,Stonecraft Masonry,5000.00,96.00,,
+2017,11,17-0610,Robert Vadopich,14 Pioneer Lane,Comm-Mechanical,"Fireplaces, Stoves & More",5224.00,25.00,,True
+2017,11,17-0591,Black Hills Christian Ac,630 32nd Street S,Comm-Mechanical,Spearfish Electric,3620.00,50.00,,
+2017,11,17-0620,Elkhkorn Ridge Campgrnd,20189 US Highway 85,Comm-Mechanical,Self,2500.00,25.00,,
+2017,11,17-0637,Pirahna Salon,1011 Main Street,Comm-Plumbing,Johnson Plumbing,2000.00,60.00,,
+2017,11,17-0598,"Frontgate Holdings, LLC",120 Valley Drive,Mfg MH Placement,B & B Mobile Transport,28000.00,50.00,,True
+2017,11,17-0613,Hunter Rost,142 Spearfish Mtn Ct,Mfg MH Placement,B & B Mobile Transport,24000.00,50.00,,
+2017,11,17-0590,Dave Derosier,80 Highway 14 W,Res-Addition,RC Construction,110000.00,803.00,,True
+2017,11,17-0569,Adam Ziegler,709 Illinois Street E,Res-Alteration,Blackburn Basement,9571.50,156.00,,
+2017,11,17-0575,Bill Termes,625 Illinois Street E,Res-Alteration,Self,1875.00,57.00,,
+2017,11,17-0580,Jared Capp,1444 Lookout Valley Ct,Res-Alteration,Pangea Design Group,50000.00,486.00,,
+2017,11,17-0614,Doug/Linda Syman,214 Polley Drive,Res-Alteration,Self,800.00,24.00,,
+2017,11,17-0619,Jenny/Luke Donovan,605 Christensen Drive,Res-Demolition,Self,,15.00,,
+2017,11,17-0573,Ira Miller,817 Maple Circle,Res-Finish Basement,Self,20000.00,326.00,,
+2017,11,17-0584,Paul Provorse,2440 Clear Spring Rd,Res-Finish Basement,Self,9500.00,206.00,,
+2017,11,17-0611,Buxton Enterprises,1810 Durgin Court,Res-Finish Basement,Buxton Enterprises,10000.00,211.00,,
+2017,11,17-0612,Daphne Loup/Lee Harstad,3805 Spring Creek Lane,Res-Garage,Self,40000.00,426.00,,True
+2017,11,17-0618,Vicki Kapust,430 Kansas Street W,Res-Garage,Marcus Custom Builders,15000.00,216.00,,
+2017,11,17-0583,Mark Voorhees,1420 Maitland Road,Res-Mechanical,Wolff's Plumbing,1000.00,25.00,,True
+2017,11,17-0600,Gary Richards,618 Englewood Court,Res-Mechanical,Self,2500.00,25.00,,
+2017,11,17-0558,Jeff Hager,3313 Eagle Ridge Road,Res-New Dwelling,Apex Const,340000.00,1819.00,,True
+2017,11,17-0517,"Redwater Homes, LLC",3745 Beartooth Loop,Res-New Dwelling,"Redwater Homes, LLC",220000.00,1390.00,1000.00,
+2017,11,17-0572,Legacy Enterprises,8123 Brooks Loop,Res-New Dwelling,Legacy Enterprises,185000.00,1268.00,1000.00,
+2017,11,17-0582,Dailey Construction,8029 Brooks Loop,Res-New Dwelling,Dailey Construction,300000.00,1751.00,1000.00,
+2017,11,17-0594,Higgins Creek Custom Hm,1749 Russell Street,Res-New Dwelling,Higgins Creek Custom,210000.00,1373.00,1000.00,
+2017,11,17-0595,Chris/Dawn Keller,2515 Paramount Drive,Res-New Dwelling,Crowley Construction,370000.00,2045.00,1000.00,
+2017,11,17-0596,Chris/Dawn Keller,2517 Paramount Drive,Res-New Dwelling,Crowley Construction,370000.00,2045.00,1000.00,
+2017,11,17-0581,James Gudgeon,1877 Russell Street,Res-Plumbing,Wolff's Plumbing,2350.00,85.00,,
