@@ -48,6 +48,5 @@ address_fixes = {
     '13-0254': '834 AMES STREET',
     '13-0429': '1630 COLLEGE',
     '16-0449': '119 YUKON PL',
-    '14-0253': '1630 COLLEGE',
     '230141': '7100 CENTENNIAL RD'
 }

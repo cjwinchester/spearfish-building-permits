@@ -32,7 +32,8 @@ def download_building_reports():
             if 'ADID=1500' in href:
                 month, year = '07', '2023'
             else:
-                parsed_date = datetime.strptime(month_year,
+                parsed_date = datetime.strptime(
+                    month_year,
                     '%B %Y'
                 )
                 month, year = str(parsed_date.month).zfill(2), parsed_date.year

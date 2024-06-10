@@ -1,6 +1,5 @@
 from glob import glob
 import csv
-import json
 
 from scourgify import normalize_address_record
 
