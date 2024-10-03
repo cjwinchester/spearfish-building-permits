@@ -39,7 +39,6 @@ for file in data_files_in:
 
         # skip permits for signs, burns, grading, etc.
         if row['applicant_name'] in skiprow_name:
-            combined_data.append(row)
             continue
 
         # validate: coerce cost estimates to float
@@ -63,12 +62,12 @@ for file in data_files_in:
         # and make the hookup fees floats
         if row['hookup_fee']:
             row['hookup_fee'] = '{:.2f}'.format(
-                float(row['hookup_fee'])
+                float(row['hookup_fee'].replace('‐', '') or 0)
             )
 
         address = row['site_address']
 
-        # validate address formatting
+        # some manual lookups
         address_to_parse = address_fixes.get(
             permit_id,
             address
@@ -78,7 +77,22 @@ for file in data_files_in:
         if address_to_parse[0].isalpha():
             raise Exception(f'Check the address for {permit_id} ({file})\n    {address}')
 
-        normalize_address_record(f'{address_to_parse} Spearfish, SD')
+        # clean/validate address
+        city = 'SPEARFISH'
+        state = ' SD '
+        zipcode = '57783'
+
+        city = city if city not in address_to_parse else ''
+        state = state.strip() if state not in address_to_parse else ''
+        zipcode = zipcode if zipcode not in address_to_parse else ''
+
+        add_to_address = ' '.join([city, state, zipcode]).strip()
+
+        address = f'{address_to_parse} {add_to_address}'.strip()
+
+        # don't need to keep city/state/zipcode returned
+        # here because implied, just checking address format
+        normalize_address_record(address)
 
         combined_data.append(row)
 
