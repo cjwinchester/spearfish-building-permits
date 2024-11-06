@@ -1,0 +1,36 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2024,10,CAA-24-7,Lantis Enterprises,"4755 East Colorado Boulevard, Spearfish SD 57783",Commercial Alterations or Tenant Improvements,"Leth Roofing, LLC",42000.00,618.33,,
+2024,10,CAA-24-9,BADGERMAN LLC,387 1/2 Upper Valley Road,Commercial Alterations or Tenant Improvements,Homestead Custom Builders,5328.49,660.45,,True
+2024,10,CAA-24-12,Lighthouse Development LLC,"3308 W FAIRGROUND LOOP , Unit 1,2,3,4, SPEARFISH SD 57783",Commercial Alterations or Tenant Improvements,Midwestern Mechanical Inc,20000.00,135.00,,
+2024,10,CBP-24-30,A&W,"3111 1st Avenue, Spearfish SD 57783",Commercial New Build or Addition,Summit Fire Protection Co.,5800.00,222.95,,
+2024,10,CBP-24-32,Roger Riley,"806 North Main Street, Spearfish SD 57783",Commercial New Build or Addition,Owner,1000.00,389.60,,
+2024,10,CBP-24-39,PACIFIC STAINLESS PRODUCTS INC,"80 Commerce Drive, Spearfish SD 57783",Commercial New Build or Addition,Baldwin Electric,12998.00,270.60,,
+2024,10,CBP-24-41,Farnsworth Group,"3111 1st Avenue, Spearfish SD 57783",Commercial New Build or Addition,"Rapid Fire Protection, Inc.",119890.00,1141.65,,
+2024,10,CBP-24-42,"HARR, GLORIA J REVOCABLE TRUST","1625 RYAN RD , SPEARFISH SD 57783",Commercial New Build or Addition,"EasTex Tower, LLC",28000.00,535.47,,
+2024,10,RBP-24-125,Jan Bergstrom,"114 Vale Road, Spearfish SD 57783",Manufactured MH Placement,Centennial Homes,240000.00,50.00,,
+2024,10,RAA-24-11,Tammy Karlson,"311 Evans Lane, Spearfish SD 57783",Manufactured MH Placement,Owner,100000.00,50.00,,True
+2024,10,RBP-24-60,Dave Petersen Construction LLC,"8130 Luke Court, Spearfish SD 57783",New Residential - One to Two Family Dwelling Construction,DAVE PETERSEN CONSTRUCTION LLC,521776.22,4217.89,3500.00,
+2024,10,RBP-24-131,Spearfish School District,"1725 North Main Street, Spearfish SD 57783",New Residential - One to Two Family Dwelling Construction,Owner,221663.04,,,
+2024,10,RND-24-1,Robert Douglas,"120 West Colorado Boulevard, Spearfish SD 57783",New Residential - One to Two Family Dwelling Construction,"Carmichael Construction, LLC",396627.92,3676.94,3500.00,
+2024,10,RND-24-8,Todd Peterson,3340 Eagle Ridge Rd,New Residential - One to Two Family Dwelling Construction,Winter Construction,478716.69,3419.08,,True
+2024,10,RBP-24-126,Denny Haag,"1145 Woodland Drive, Spearfish SD 57783",New Residential - One to Two Family Dwelling Construction,Slate Ridge Builders,827361.90,5723.61,1750.00,
+2024,10,RBP-24-127,Greg Echols,"304 East Grant Street, Spearfish SD 57783",New Residential - One to Two Family Dwelling Construction,Munro Earthmoving LLC,214033.10,3591.80,,
+2024,10,RAA-24-1,Jacob Wendt,"743 N 10TH ST , SPEARFISH SD 57783",Residential Additions/Alterations,Heinzerling Concrete,63419.72,781.45,,
+2024,10,RAA-24-12,Sue Ames,"535 Tinton Rd, Spearfish SD 57783",Residential Additions/Alterations,Advanced Builders Inc,10948.00,236.70,,True
+2024,10,RAA-24-14,PETS WITH PEOPLE RENTALS LLC,"702 E GRANT ST , SPEARFISH SD 57783",Residential Additions/Alterations,Designs by Darling,500.00,30.00,,
+2024,10,RAA-24-16,"BOGARD, WILLIAM J REVOCABLE TRUST","529 W JACKSON BLVD , SPEARFISH SD 57783",Residential Additions/Alterations,J&M Mechanical,500.00,36.00,,
+2024,10,RAA-24-3,Michael and Merna Schriber,"275 Caddy Drive, Spearfish SD 57783",Residential Additions/Alterations,"Your Home Improvement Company, LLC",8300.00,202.80,,
+2024,10,RAA-24-4,Kim Greenlee,"545 Mountain View, Spearfish SD 57783",Residential Additions/Alterations,Owner,13000.00,270.60,,True
+2024,10,RAA-24-5,David Langer,"1001 33rd Street, Spearfish SD 57783",Residential Additions/Alterations,Owner,57771.00,740.65,,
+2024,10,RAA-24-7,King Brown,"110 Hardy Drive, Spearfish SD 57783",Residential Additions/Alterations,Owner,15000.00,468.50,,
+2024,10,RAA-24-8,Olin Quissell,"1555 Hillside Drive, Spearfish SD 57783",Residential Additions/Alterations,Owner,19774.00,389.25,,True
+2024,10,RAA-24-9,SD INVESTMENTS LLC,"7939 BROOKS LOOP , SPEARFISH SD 57783",Residential Additions/Alterations,Black Hills Maintenance,40000.00,891.85,,
+2024,10,RBP-24-138,Theresa Medina,"433 North 12th Street, Spearfish SD 57783",Residential Additions/Alterations,Owner,12000.00,253.65,,
+2024,10,RDC-24-2,First Baptist Church of the Northern Hills,"1220 North Rainbow Road, Spearfish SD 57783",Residential Decks and Covered Patios,Owner,18486.72,372.30,,
+2024,10,RDC-24-3,"GUTHMILLER, JASON J","810 STATE ST , SPEARFISH SD 57783",Residential Decks and Covered Patios,Owner,10270.40,236.70,,
+2024,10,PMG-24-9,Devin wolter,"434 8TH ST , SPEARFISH SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Owner,,51.00,,
+2024,10,PMG-24-12,"FYSTRO, TERRY R & CARLA K","817 E HUDSON CIR , SPEARFISH SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Star Plumbing,5000.00,33.00,,
+2024,10,PMG-24-14,Steve Johnson,"340 Highway 14 , Spearfish SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",The Plumber Inc,1000.00,51.00,,
+2024,10,PMG-24-16,Julie Burke,"2509 WINDMILL DR , Unit 704, SPEARFISH SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Johnson Plumbing,150.00,36.00,,
+2024,10,PMG-24-17,David Kimball,"185 Oak Ridge Road, Spearfish SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Johnson Plumbing,200.00,46.00,,
+2024,10,PMG-24-18,Jim Schuricht,"208 Union St, Spearfish SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Home Run Services LLC,8317.00,76.00,,
