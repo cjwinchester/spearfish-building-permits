@@ -18,7 +18,7 @@ for file in data_files_in:
     # open the file
     with open(file, 'r') as infile:
         data = list(csv.DictReader(infile))
-    
+
     # loop over the rows of data
     for row in data:
 
@@ -92,7 +92,10 @@ for file in data_files_in:
 
         # don't need to keep city/state/zipcode returned
         # here because implied, just checking address format
-        normalize_address_record(address)
+        try:
+            normalize_address_record(address)
+        except:
+            print(f'Check the address for {permit_id} ({file})\n    {address}')
 
         combined_data.append(row)
 

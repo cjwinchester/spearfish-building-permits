@@ -48,5 +48,7 @@ address_fixes = {
     '13-0254': '834 AMES STREET',
     '13-0429': '1630 COLLEGE',
     '16-0449': '119 YUKON PL',
-    '230141': '7100 CENTENNIAL RD'
+    '230141': '7100 CENTENNIAL RD',
+    'PMG-24-23': '311 EVANS LANE',
+    '7923 DUKE PARKWAY'
 }

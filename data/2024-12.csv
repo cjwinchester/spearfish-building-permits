@@ -1,0 +1,16 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2024,12,PMG-24-23,Rusty karlson,"311 Evans Lane, Unit Lot N, Spearfish SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Owner,1.00,56.00,,True
+2024,12,PMG-24-26,Bryan Robb,"450 Gooseberry Rd, Spearfish, SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Owner,2000.00,51.00,,
+2024,12,PMG-24-24,Desmond Watson,"1236 SPEARFISH MOUNTAIN LN, SPEARFISH SD","Standalone Permits - Plumbing, Mechanical, Gas",Owner,340.00,36.00,,
+2024,12,RAA-24-28,HILLSVIEW CHURCH OF NAZARENE,"1200 N 10TH ST, SPEARFISH SD 57783",Residential Additions/Alterations,Blackburn Foundation Repair LLC,59838.58,754.25,,
+2024,12,RAA-24-29,Alicia Beedle,"1230 N 5TH ST, SPEARFISH SD 57783",Residential Additions/Alterations,Owner,30000.00,885.45,,
+2024,12,RAA-24-32,"Laska, Matthew J. & Kelsey R.","3766 W BEARTOOTH LOOP, SPEARFISH SD 5778",Residential Additions/Alterations,"Fireplaces, Stoves and More",25000.00,530.00,,
+2024,12,CAA-24-18,"Fifth Generation Investments, LLC",2437 E. Colorado Blvd.,Commercial Alterations or Tenant Improvements,Advanced Builders,18580.00,372.30,,
+2024,12,RAA-24-31,Tate Johnson,"2011 Red Oak Cir, Spearfish, SD 57783",Residential Additions/Alterations,Ainsworth-Benning Construction,70871.92,918.05,,
+2024,12,RND-24-10,DBK INC,"7730 Brooks Loop, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,DBK Inc.,900000.00,4485.51,3500.00,
+2024,12,RND-24-14,Jason and Stacy Jones,"3115 American Eagle Rd, Spearfish, SD 5778",New Residential - One to Two Family Dwelling Construction,Big Timber Properties,1300000.00,5527.23,,True
+2024,12,RND-24-15,RL Development LLC,"7923 & 7925 Duke Parkway, Spearfish, SD 57",New Residential - One to Two Family Dwelling Construction,RL Development LLC,1300000.00,6730.43,7000.00,
+2024,12,RND-24-18,"DMD Construction, Inc.","3912 Powder River Avenue, Spearfish, SD 57",New Residential - One to Two Family Dwelling Construction,"DMD Constuction, Inc.",500000.00,4524.75,3500.00,
+2024,12,RND-24-19,Edward and Breonna Reid,"629 Gooseberry Road, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Dailey Construction LLC,300000.00,4089.73,3500.00,
+2024,12,RND-24-20,Linda Wordeman,"604 Bridgewater Court, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Timberline Builders,1111627.74,3772.43,3500.00,
+2024,12,RND-24-21,Aaron C & Susan H Thompson,"430 W. Kansas St, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,"Hemeyer Enterprises, Inc.",125000.00,791.65,,
