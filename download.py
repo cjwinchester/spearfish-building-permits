@@ -8,6 +8,7 @@ from slack_sdk.webhook import WebhookClient
 
 
 SLACK_HOOK_LOCAL_CITY = os.environ.get('SLACK_HOOK_LOCAL_CITY')
+webhook = WebhookClient(SLACK_HOOK_LOCAL_CITY)
 BASE_URL = 'https://www.cityofspearfish.com'
 
 req = requests.get(
