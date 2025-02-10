@@ -50,6 +50,16 @@ def check_for_new_reports():
             if os.path.exists(filepath):
                 continue
 
+            blk = [
+                {
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": f"*<{url}|New City of Spearfish building permits report for {month} {year}>*"
+                    }
+                }
+            ]
+
             response = webhook.send(
                 text=f'New City of Spearfish building permits report for {month} {year}: {url}',
                 blocks=blk
