@@ -1,0 +1,18 @@
+name: Check for new reports
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-python@main
+      with:
+        python-version: '3.12'
+        SLACK_HOOK_LOCAL_CITY: ${{ secrets.SLACK_HOOK_LOCAL_CITY }}
+    - run: pip install -r requirements.txt
+    - name: Run check script
+      run: python download.py
