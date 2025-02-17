@@ -14,6 +14,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
+      - environment: env for scripts
       - name: Run check script
         run: python download.py
         env:
