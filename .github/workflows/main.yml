@@ -8,6 +8,7 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    environment: env for scripts
     steps:
       - uses: actions/checkout@main
       - uses: actions/setup-python@main
@@ -15,7 +16,6 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
       - name: Run check script
-        environment: env for scripts
         run: python download.py
         env:
           SLACK_HOOK_LOCAL_CITY: ${{ secrets.SLACK_HOOK_LOCAL_CITY }}
