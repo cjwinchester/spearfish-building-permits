@@ -61,8 +61,10 @@ def check_for_new_reports():
                 }
             ]
 
+            month_str = datetime(int(year), int(month), 1).strftime('%B %Y')
+
             response = webhook.send(
-                text=f'New City of Spearfish building permits report for {month} {year}: {url}',
+                text=f'New City of Spearfish building permits report for {month_str}: {url}',
                 blocks=blk
             )
 
