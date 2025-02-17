@@ -1,0 +1,22 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2025,01,CAA-24-14,4-Sum Investments LLC- Phil Summers,"606 29th St, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Star Plumbing Service,11000.0,365.7,,False
+2025,01,CAA-24-17,Redstone LLC-Mark Young,"544 Main St, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Crux Electrcic/Berry Plubming,1500.0,119.1,,False
+2025,01,CAA-24-19,Commnet Cellular-Warren Golliher,"2105 Oliver St, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Mastec,50000.0,686.25,,False
+2025,01,CAA-24-21,Lutheran Social Services,"2519 Windmill Dr, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Triton Plumbing LLC,8000.0,274.85,,False
+2025,01,CAA-25-2,Stack Holding LLC,"348 E Colorado Blvd, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Advanced Builders LLC,2910.0,101.1,,False
+2025,01,CAA-25-3,Northern Hills Hospitatility LLC-Bill Collins,"540 E Jackson Blvd, Spearfish, SD 57783",Commercial Alterations or Tenant Improvements,Dakota Tile and Stone/MJ Plumbing,271766.0,1023.0,,False
+2025,01,CDP-24-1,Hollow Gulch LLC,"820 Hill St, Spearfish, SD 57783",Commercial New Build or Addition,"J-Berd Mechanical Contractors, Inc.",12912000.0,117459.85,,False
+2025,01,RAA-24-24,Quentin Geddes,"592 Buttercup Ct, Spearfish, SD 57783",Residential Additions/Alterations,Owner,30000.0,1060.65,,False
+2025,01,RAA-24-34,Wade Beringer,"110 S 5th St, Spearfish, SD 57783",Residential Additions/Alterations,Hemeyer Enterprises Inc,27832.54,499.47,,False
+2025,01,RAA-24-35,Denny Brengle,"583 Brengle Pl, Spearfish, SD 57783",Residential Additions/Alterations,True Builders LLC,250000.0,880.59,,True
+2025,01,RAA-24-36,Don Marti,"3452 Westview Loop, Spearfish, SD 57783",Residential Additions/Alterations,Jay Darling,36973.44,575.88,,True
+2025,01,RAA-25-2,Steve and Sandi Litschewski,"130 Spearfish Mountain Ct, Spearfish, SD 57783",Residential Additions/Alterations,"Your Home Improvement Company, LLC",6900.0,221.9,,False
+2025,01,RAA-25-3,Mike & Liz Manning,"1058 N Canyon St, Spearfish, SD 57783",Residential Additions/Alterations,Pro Circuit Electric Co./Waterworks Plumbing Inc,33245.73,659.41,,False
+2025,01,RAA-25-5,Keith Schroeder/Oxana Gorbatenka,"314 Oriole Dr, Spearfish, SD 57783",Residential Additions/Alterations,MJ Plumbing Inc/Rath Electric LLC,50000.0,795.25,,False
+2025,01,RBP-24-87,Trish Nicely,"1029 North Main St, Spearfish, SD 57783",Residential Building Permit,Bear Property Management,120000.0,1550.65,,False
+2025,01,RDC-25-1,Rock River Rentals LLC,"268 Standpipe Dr, Spearfish, SD 57783",Residential Decks and Covered Patios,Rock River Rentals LLC,43935.36,635.31,,True
+2025,01,RND-24-24,"Classic Design Homes, LLC","390 Buttercup Ct, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Matthew Heinzerling,508785.21,8012.83,,False
+2025,01,RND-25-4,Hills View Homes,"285 Aurora Ave, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Hills View Homes,151764.0,5074.15,,False
+2025,01,RND-25-5,Hills View Homes,"299 Aurora Ave, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Hills View Homes,205352.0,5654.99,,False
+2025,01,RND-25-6,Hills View Homes,"313 Aurora Ave, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Hills View Homes,169292.0,5414.58,,False
+2025,01,RND-25-7,Hills View Homes,"327 Aurora Ave, Spearfish, SD 57783",New Residential - One to Two Family Dwelling Construction,Hills View Homes,174232.0,5316.1,,False
