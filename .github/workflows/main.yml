@@ -14,8 +14,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - environment: env for scripts
       - name: Run check script
+        environment: env for scripts
         run: python download.py
         env:
           SLACK_HOOK_LOCAL_CITY: ${{ secrets.SLACK_HOOK_LOCAL_CITY }}
