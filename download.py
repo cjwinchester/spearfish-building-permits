@@ -2,7 +2,7 @@ from datetime import datetime
 import time
 import os
 from pathlib import Path
-from urlparse import urljoin
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
