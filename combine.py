@@ -43,7 +43,7 @@ for file in data_files_in:
 
         # validate: coerce cost estimates to float
         # but return w/ 2 decimals
-        if row['cost_approximate']:
+        if row['cost_approximate'] and row['cost_approximate'] != "-":
             row['cost_approximate'] = '{:.2f}'.format(
                 float(row['cost_approximate'])
             )
@@ -52,7 +52,7 @@ for file in data_files_in:
         permit_fee = row['permit_fee']
 
         if permit_fee:
-            if permit_fee.lower() == 'waived':
+            if permit_fee.lower() == 'waived' or permit_fee == "-":
                 row['permit_fee'] = ''
             else:
                 row['permit_fee'] = '{:.2f}'.format(
@@ -104,7 +104,7 @@ combined_data.sort(
     key=lambda row: (
         row.get('year'),
         row.get('month'),
-        float(row.get('cost_approximate') or 0)
+        row.get('cost_approximate', 0)
     ),
     reverse=True
 )

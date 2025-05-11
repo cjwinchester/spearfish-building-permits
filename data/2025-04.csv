@@ -1,0 +1,31 @@
+year,month,permit_number,applicant_name,site_address,construction_type,contractor,cost_approximate,permit_fee,hookup_fee,outside_city_limits
+2025,04,CAA-24-13,Casey Baldwin,"544 MAIN ST, SPEARFISH, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Rapid Fire Protection,23260.0,754.13,,False
+2025,04,CAA-25-11,Jerry Robinson,"3025 1st Avenue, Unit Suite 2&3, Spearfish, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Robinson Builders Inc,123687.0,1164.73,,False
+2025,04,CAA-25-20,Janet Zetah,"1400 NORTH AVE, SPEARFISH, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Black Hills Exteriors,7596.0,185.85,,False
+2025,04,CAA-25-24,corey brost,"145 East Hudson Street, Spearfish, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Owner,17000.0,149.13,,False
+2025,04,CAA-25-26,Carl Wellford,"344 W JACKSON BLVD, SPEARFISH, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Atlas Exteriors,20000.0,389.25,,False
+2025,04,CAA-25-6,George King,"5525 US Highway 85, Spearfish, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Owner,22000.0,-,,True
+2025,04,CAA-25-8,Michael Moken,"80 Commerce Drive, Spearfish, SD 57783","Commercial Alterations, Additions, or Tenant Improvements",Rapid Fire Protection,15000.0,304.5,,False
+2025,04,CNC-25-6,Skylar Huschka,"846 MAIN ST, SPEARFISH, SD 57783",Commercial New Construction,Heavy Constructors Inc,250000.0,2391.75,,False
+2025,04,CNC-25-7,Chase Palo,"Aviation Pl, Unit 254, Spearfish, SD 57783",Commercial New Construction,High Country Erectors,750000.0,4586.27,,False
+2025,04,NCM-25-5,John Lausser,"Aviation Pl, Unit 449, Spearfish, SD 57783",Commercial New Construction,Woelber Excavating LLC,420000.0,3068.83,,False
+2025,04,PMG-25-10,Theresa Medina,"1410 North Avenue, Spearfish, SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Donovan Plumbing LLC,80000.0,43.0,,False
+2025,04,PMG-25-11,Jeff Rath,"257 Aurora Ave, Spearfish, SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",One Way Service Pros,-,23.0,,False
+2025,04,PMG-25-12,Alex Johnson,"215 INDUSTRIAL DR, SPEARFISH, SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Waterworks Plumbing Inc,300.0,287.0,,False
+2025,04,PMG-25-9,Emily Ahrendt,"517 N MAIN ST, SPEARFISH, SD 57783","Standalone Permits - Plumbing, Mechanical, Gas",Donovan Plumbing LLC,350.0,53.0,,False
+2025,04,RAA-25-14,Jason Carlson,"130 Timberline Rd, Spearfish, SD 57783",Residential Additions or Alterations,Owner,300000.0,2229.25,,True
+2025,04,RAA-25-15,Cody Hemeyer,"316 Upper Valley Rd, Spearfish, SD 57783",Residential Additions or Alterations,Hemeyer Construction,138498.0,1300.28,,True
+2025,04,RAA-25-19,Thomas Myers,"240 E KANSAS ST, SPEARFISH, SD 57783",Residential Additions or Alterations,Owner,35000.0,558.82,,False
+2025,04,RAA-25-26,Amber Symonds,"1041 STATE ST, SPEARFISH, SD 57783",Residential Additions or Alterations,MAS Enterprises,1500.0,66.11,,False
+2025,04,RAA-25-28,Nicholas Stepanek,"925 WOODLAND DR, SPEARFISH, SD 57783",Residential Additions or Alterations,DML Construction,10802.0,236.71,,False
+2025,04,RAA-25-29,Mike Delahoyde,"4225 Old Belle Rd, Spearfish, SD 57783",Residential Additions or Alterations,MCD Construction Services LLC,369734.4,2584.15,,True
+2025,04,RAA-25-31,Dale Hettick,"926 VERDALE DR, SPEARFISH, SD 57783",Residential Additions or Alterations,Owner,33794.88,276.28,,False
+2025,04,RAA-25-32,Eric Schlimgen,"646 HARVARD ST, SPEARFISH, SD 57783",Residential Additions or Alterations,Owner,44808.39,655.18,,False
+2025,04,RAA-25-7,Philip Melmer,"498 BUTTERCUP CT, SPEARFISH, SD 57783",Residential Additions or Alterations,Owner,30000.0,569.45,,False
+2025,04,RDC-25-5,Randy Lake,"2410 WOODLAND LOOP, SPEARFISH, SD 57783","Residential Decks, Covered Patios, or Fences",Excel Construction LLC,25968.0,214.53,,False
+2025,04,RDP-25-3,Lorri Riley,"6025 E COLORADO BLVD, SPEARFISH, SD 57783",Residential Demolition,Owner,45000.0,50.0,,False
+2025,04,RDP-25-4,Ronald Lyon,"325 N 3RD ST, SPEARFISH, SD 57783",Residential Demolition,Cousin Construction,20749.0,50.0,,False
+2025,04,RNC-25-38,Traci Isburg,"414 North 7th Street, Spearfish, SD 57783",Residential New Construction,TC Construction,324999.0,1258.37,,False
+2025,04,RNC-25-40,Jessi Hughes,"1695 Oak Crest Court, Spearfish, SD 57783",Residential New Construction,High Plains Construction Inc,600000.0,6295.98,,False
+2025,04,RND-25-2,Jason Marcus,"10576 Cedar Berry Circle, Spearfish, SD 57783",Residential New Construction,Marcus Custom Builders,1000000.0,4842.71,,True
+2025,04,RND-25-9,Chad Truax,"32 Lantern Cir, Spearfish, SD 57783",Residential New Construction,Rapid Exteriors,180000.0,2090.07,,True

@@ -18,6 +18,11 @@ DIR_PDFS = Path('pdfs')
 
 USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0'
 
+MONTH_YEAR_FORMATS = [
+    "%B %Y",
+    "%B%Y"
+]
+
 
 def check_for_new_reports():
 
@@ -50,10 +55,11 @@ def check_for_new_reports():
             if 'ADID=1500' in href:
                 month, year = '07', '2023'
             else:
-                parsed_date = datetime.strptime(
-                    month_year,
-                    '%B %Y'
-                )
+                for my in MONTH_YEAR_FORMATS:
+                    try:
+                        parsed_date = datetime.strptime(month_year, my)
+                    except ValueError:
+                        continue
                 month, year = str(parsed_date.month).zfill(2), parsed_date.year
             
             filepath = DIR_PDFS / f'{year}-{month}.pdf'
